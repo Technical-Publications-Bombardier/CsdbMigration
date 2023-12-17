@@ -1,0 +1,5875 @@
+[
+  {
+    "Entity": "cularr",
+    "Hex": "21B6",
+    "Description": "ANTICLOCKWISE TOP SEMICIRCLE ARROW",
+    "Character": "↶",
+    "Decimal": 8630
+  },
+  {
+    "Entity": "curarr",
+    "Hex": "21B7",
+    "Description": "CLOCKWISE TOP SEMICIRCLE ARROW",
+    "Character": "↷",
+    "Decimal": 8631
+  },
+  {
+    "Entity": "dArr",
+    "Hex": "21D3",
+    "Description": "DOWNWARDS DOUBLE ARROW",
+    "Character": "⇓",
+    "Decimal": 8659
+  },
+  {
+    "Entity": "darr2",
+    "Hex": "21CA",
+    "Description": "DOWNWARDS PAIRED ARROWS",
+    "Character": "⇊",
+    "Decimal": 8650
+  },
+  {
+    "Entity": "dharl",
+    "Hex": "21C3",
+    "Description": "DOWNWARDS HARPOON WITH BARB LEFTWARDS",
+    "Character": "⇃",
+    "Decimal": 8643
+  },
+  {
+    "Entity": "dharr",
+    "Hex": "21C2",
+    "Description": "DOWNWARDS HARPOON WITH BARB RIGHTWARDS",
+    "Character": "⇂",
+    "Decimal": 8642
+  },
+  {
+    "Entity": "lAarr",
+    "Hex": "21DA",
+    "Description": "LEFTWARDS TRIPLE ARROW",
+    "Character": "⇚",
+    "Decimal": 8666
+  },
+  {
+    "Entity": "Larr",
+    "Hex": "219E",
+    "Description": "LEFTWARDS TWO HEADED ARROW",
+    "Character": "↞",
+    "Decimal": 8606
+  },
+  {
+    "Entity": "larr2",
+    "Hex": "21C7",
+    "Description": "LEFTWARDS PAIRED ARROWS",
+    "Character": "⇇",
+    "Decimal": 8647
+  },
+  {
+    "Entity": "larrhk",
+    "Hex": "21A9",
+    "Description": "LEFTWARDS ARROW WITH HOOK",
+    "Character": "↩",
+    "Decimal": 8617
+  },
+  {
+    "Entity": "larrlp",
+    "Hex": "21AB",
+    "Description": "LEFTWARDS ARROW WITH LOOP",
+    "Character": "↫",
+    "Decimal": 8619
+  },
+  {
+    "Entity": "larrtl",
+    "Hex": "21A2",
+    "Description": "LEFTWARDS ARROW WITH TAIL",
+    "Character": "↢",
+    "Decimal": 8610
+  },
+  {
+    "Entity": "lhard",
+    "Hex": "21BD",
+    "Description": "LEFTWARDS HARPOON WITH BARB DOWNWARDS",
+    "Character": "↽",
+    "Decimal": 8637
+  },
+  {
+    "Entity": "lharu",
+    "Hex": "21BC",
+    "Description": "LEFTWARDS HARPOON WITH BARB UPWARDS",
+    "Character": "↼",
+    "Decimal": 8636
+  },
+  {
+    "Entity": "hArr",
+    "Hex": "21D4",
+    "Description": "Left Right Double Arrow",
+    "Character": "⇔",
+    "Decimal": 8660
+  },
+  {
+    "Entity": "harr",
+    "Hex": "2194",
+    "Description": "LEFT RIGHT ARROW",
+    "Character": "↔",
+    "Decimal": 8596
+  },
+  {
+    "Entity": "lrarr2",
+    "Hex": "21C6",
+    "Description": "LEFTWARDS ARROW OVER RIGHTWARDS ARROW",
+    "Character": "⇆",
+    "Decimal": 8646
+  },
+  {
+    "Entity": "rlarr2",
+    "Hex": "21C4",
+    "Description": "RIGHTWARDS ARROW OVER LEFTWARDS ARROW",
+    "Character": "⇄",
+    "Decimal": 8644
+  },
+  {
+    "Entity": "harrw",
+    "Hex": "21AD",
+    "Description": "LEFT RIGHT WAVE ARROW",
+    "Character": "↭",
+    "Decimal": 8621
+  },
+  {
+    "Entity": "rlhar2",
+    "Hex": "21CC",
+    "Description": "RIGHTWARDS HARPOON OVER LEFTWARDS HARPOON",
+    "Character": "⇌",
+    "Decimal": 8652
+  },
+  {
+    "Entity": "lrhar2",
+    "Hex": "21CB",
+    "Description": "LEFTWARDS HARPOON OVER RIGHTWARDS HARPOON",
+    "Character": "⇋",
+    "Decimal": 8651
+  },
+  {
+    "Entity": "lsh",
+    "Hex": "21B0",
+    "Description": "UPWARDS ARROW WITH TIP LEFTWARDS",
+    "Character": "↰",
+    "Decimal": 8624
+  },
+  {
+    "Entity": "map",
+    "Hex": "21A6",
+    "Description": "RIGHTWARDS ARROW FROM BAR",
+    "Character": "↦",
+    "Decimal": 8614
+  },
+  {
+    "Entity": "mumap",
+    "Hex": "22B8",
+    "Description": "MULTIMAP",
+    "Character": "⊸",
+    "Decimal": 8888
+  },
+  {
+    "Entity": "nearr",
+    "Hex": "2197",
+    "Description": "NORTH EAST ARROW",
+    "Character": "↗",
+    "Decimal": 8599
+  },
+  {
+    "Entity": "nlArr",
+    "Hex": "21CD",
+    "Description": "LEFTWARDS DOUBLE ARROW WITH STROKE",
+    "Character": "⇍",
+    "Decimal": 8653
+  },
+  {
+    "Entity": "nlarr",
+    "Hex": "219A",
+    "Description": "LEFTWARDS ARROW WITH STROKE",
+    "Character": "↚",
+    "Decimal": 8602
+  },
+  {
+    "Entity": "nhArr",
+    "Hex": "21CE",
+    "Description": "LEFT RIGHT DOUBLE ARROW WITH STROKE",
+    "Character": "⇎",
+    "Decimal": 8654
+  },
+  {
+    "Entity": "nharr",
+    "Hex": "21AE",
+    "Description": "LEFT RIGHT ARROW WITH STROKE",
+    "Character": "↮",
+    "Decimal": 8622
+  },
+  {
+    "Entity": "nrarr",
+    "Hex": "219B",
+    "Description": "RIGHTWARDS ARROW WITH STROKE",
+    "Character": "↛",
+    "Decimal": 8603
+  },
+  {
+    "Entity": "nrArr",
+    "Hex": "21CF",
+    "Description": "RIGHTWARDS DOUBLE ARROW WITH STROKE",
+    "Character": "⇏",
+    "Decimal": 8655
+  },
+  {
+    "Entity": "nwarr",
+    "Hex": "2196",
+    "Description": "NORTH WEST ARROW",
+    "Character": "↖",
+    "Decimal": 8598
+  },
+  {
+    "Entity": "olarr",
+    "Hex": "21BA",
+    "Description": "ANTICLOCKWISE OPEN CIRCLE ARROW",
+    "Character": "↺",
+    "Decimal": 8634
+  },
+  {
+    "Entity": "orarr",
+    "Hex": "21BB",
+    "Description": "CLOCKWISE OPEN CIRCLE ARROW",
+    "Character": "↻",
+    "Decimal": 8635
+  },
+  {
+    "Entity": "rAarr",
+    "Hex": "21DB",
+    "Description": "RIGHTWARDS TRIPLE ARROW",
+    "Character": "⇛",
+    "Decimal": 8667
+  },
+  {
+    "Entity": "Rarr",
+    "Hex": "21A0",
+    "Description": "RIGHTWARDS TWO HEADED ARROW",
+    "Character": "↠",
+    "Decimal": 8608
+  },
+  {
+    "Entity": "rarr2",
+    "Hex": "21C9",
+    "Description": "RIGHTWARDS PAIRED ARROWS",
+    "Character": "⇉",
+    "Decimal": 8649
+  },
+  {
+    "Entity": "rarrhk",
+    "Hex": "21AA",
+    "Description": "RIGHTWARDS ARROW WITH HOOK",
+    "Character": "↪",
+    "Decimal": 8618
+  },
+  {
+    "Entity": "rarrlp",
+    "Hex": "21AC",
+    "Description": "RIGHTWARDS ARROW WITH LOOP",
+    "Character": "↬",
+    "Decimal": 8620
+  },
+  {
+    "Entity": "rarrtl",
+    "Hex": "21A3",
+    "Description": "RIGHTWARDS ARROW WITH TAIL",
+    "Character": "↣",
+    "Decimal": 8611
+  },
+  {
+    "Entity": "rarrw",
+    "Hex": "219D",
+    "Description": "RIGHTWARDS SQUIGGLE ARROW",
+    "Character": "↝",
+    "Decimal": 8605
+  },
+  {
+    "Entity": "rhard",
+    "Hex": "21C1",
+    "Description": "RIGHTWARDS HARPOON WITH BARB DOWNWARDS",
+    "Character": "⇁",
+    "Decimal": 8641
+  },
+  {
+    "Entity": "rharu",
+    "Hex": "21C0",
+    "Description": "RIGHTWARDS HARPOON WITH BARB UPWARDS",
+    "Character": "⇀",
+    "Decimal": 8640
+  },
+  {
+    "Entity": "rsh",
+    "Hex": "21B1",
+    "Description": "UPWARDS ARROW WITH TIP RIGHTWARDS",
+    "Character": "↱",
+    "Decimal": 8625
+  },
+  {
+    "Entity": "drarr",
+    "Hex": "2198",
+    "Description": "SOUTH EAST ARROW",
+    "Character": "↘",
+    "Decimal": 8600
+  },
+  {
+    "Entity": "dlarr",
+    "Hex": "2199",
+    "Description": "SOUTH WEST ARROW",
+    "Character": "↙",
+    "Decimal": 8601
+  },
+  {
+    "Entity": "uArr",
+    "Hex": "21D1",
+    "Description": "UPWARDS DOUBLE ARROW",
+    "Character": "⇑",
+    "Decimal": 8657
+  },
+  {
+    "Entity": "uarr2",
+    "Hex": "21C8",
+    "Description": "UPWARDS PAIRED ARROWS",
+    "Character": "⇈",
+    "Decimal": 8648
+  },
+  {
+    "Entity": "vArr",
+    "Hex": "21D5",
+    "Description": "UP DOWN DOUBLE ARROW",
+    "Character": "⇕",
+    "Decimal": 8661
+  },
+  {
+    "Entity": "varr",
+    "Hex": "2195",
+    "Description": "UP DOWN ARROW",
+    "Character": "↕",
+    "Decimal": 8597
+  },
+  {
+    "Entity": "uharl",
+    "Hex": "21BF",
+    "Description": "UPWARDS HARPOON WITH BARB LEFTWARDS",
+    "Character": "↿",
+    "Decimal": 8639
+  },
+  {
+    "Entity": "uharr",
+    "Hex": "21BE",
+    "Description": "UPWARDS HARPOON WITH BARB RIGHTWARDS",
+    "Character": "↾",
+    "Decimal": 8638
+  },
+  {
+    "Entity": "xlArr",
+    "Hex": "21D0",
+    "Description": "LEFTWARDS DOUBLE ARROW",
+    "Character": "⇐",
+    "Decimal": 8656
+  },
+  {
+    "Entity": "xrArr",
+    "Hex": "21D2",
+    "Description": "RIGHTWARDS DOUBLE ARROW",
+    "Character": "⇒",
+    "Decimal": 8658
+  },
+  {
+    "Entity": "amalg",
+    "Hex": "2210",
+    "Description": "N-ARY COPRODUCT",
+    "Character": "∐",
+    "Decimal": 8720
+  },
+  {
+    "Entity": "Barwed",
+    "Hex": "2306",
+    "Description": "PERSPECTIVE",
+    "Character": "⌆",
+    "Decimal": 8966
+  },
+  {
+    "Entity": "barwed",
+    "Hex": "22BC",
+    "Description": "NAND",
+    "Character": "⊼",
+    "Decimal": 8892
+  },
+  {
+    "Entity": "Cap",
+    "Hex": "22D2",
+    "Description": "DOUBLE INTERSECTION",
+    "Character": "⋒",
+    "Decimal": 8914
+  },
+  {
+    "Entity": "Cup",
+    "Hex": "22D3",
+    "Description": "DOUBLE UNION",
+    "Character": "⋓",
+    "Decimal": 8915
+  },
+  {
+    "Entity": "cuvee",
+    "Hex": "22CE",
+    "Description": "CURLY LOGICAL OR",
+    "Character": "⋎",
+    "Decimal": 8910
+  },
+  {
+    "Entity": "cuwed",
+    "Hex": "22CF",
+    "Description": "CURLY LOGICAL AND",
+    "Character": "⋏",
+    "Decimal": 8911
+  },
+  {
+    "Entity": "diam",
+    "Hex": "22C4",
+    "Description": "DIAMOND OPERATOR",
+    "Character": "⋄",
+    "Decimal": 8900
+  },
+  {
+    "Entity": "divonx",
+    "Hex": "22C7",
+    "Description": "DIVISION TIMES",
+    "Character": "⋇",
+    "Decimal": 8903
+  },
+  {
+    "Entity": "intcal",
+    "Hex": "22BA",
+    "Description": "INTERCALATE",
+    "Character": "⊺",
+    "Decimal": 8890
+  },
+  {
+    "Entity": "lthree",
+    "Hex": "22CB",
+    "Description": "LEFT SEMIDIRECT PRODUCT",
+    "Character": "⋋",
+    "Decimal": 8907
+  },
+  {
+    "Entity": "ltimes",
+    "Hex": "22C9",
+    "Description": "LEFT NORMAL FACTOR SEMIDIRECT PRODUCT",
+    "Character": "⋉",
+    "Decimal": 8905
+  },
+  {
+    "Entity": "minusb",
+    "Hex": "229F",
+    "Description": "SQUARED MINUS",
+    "Character": "⊟",
+    "Decimal": 8863
+  },
+  {
+    "Entity": "oast",
+    "Hex": "229B",
+    "Description": "CIRCLED ASTERISK OPERATOR",
+    "Character": "⊛",
+    "Decimal": 8859
+  },
+  {
+    "Entity": "ocir",
+    "Hex": "229A",
+    "Description": "CIRCLED RING OPERATOR",
+    "Character": "⊚",
+    "Decimal": 8858
+  },
+  {
+    "Entity": "odash",
+    "Hex": "229D",
+    "Description": "CIRCLED DASH",
+    "Character": "⊝",
+    "Decimal": 8861
+  },
+  {
+    "Entity": "odot",
+    "Hex": "2299",
+    "Description": "CIRCLED DOT OPERATOR",
+    "Character": "⊙",
+    "Decimal": 8857
+  },
+  {
+    "Entity": "ominus",
+    "Hex": "2296",
+    "Description": "CIRCLED MINUS",
+    "Character": "⊖",
+    "Decimal": 8854
+  },
+  {
+    "Entity": "oplus",
+    "Hex": "2295",
+    "Description": "CIRCLED PLUS",
+    "Character": "⊕",
+    "Decimal": 8853
+  },
+  {
+    "Entity": "osol",
+    "Hex": "2298",
+    "Description": "CIRCLED DIVISION SLASH",
+    "Character": "⊘",
+    "Decimal": 8856
+  },
+  {
+    "Entity": "otimes",
+    "Hex": "2297",
+    "Description": "CIRCLED TIMES",
+    "Character": "⊗",
+    "Decimal": 8855
+  },
+  {
+    "Entity": "plusb",
+    "Hex": "229E",
+    "Description": "SQUARED PLUS",
+    "Character": "⊞",
+    "Decimal": 8862
+  },
+  {
+    "Entity": "plusdo",
+    "Hex": "2214",
+    "Description": "DOT PLUS",
+    "Character": "∔",
+    "Decimal": 8724
+  },
+  {
+    "Entity": "rthree",
+    "Hex": "22CC",
+    "Description": "RIGHT SEMIDIRECT PRODUCT",
+    "Character": "⋌",
+    "Decimal": 8908
+  },
+  {
+    "Entity": "rtimes",
+    "Hex": "22CA",
+    "Description": "RIGHT NORMAL FACTOR SEMIDIRECT PRODUCT",
+    "Character": "⋊",
+    "Decimal": 8906
+  },
+  {
+    "Entity": "sdot",
+    "Hex": "22C5",
+    "Description": "DOT OPERATOR",
+    "Character": "⋅",
+    "Decimal": 8901
+  },
+  {
+    "Entity": "sdotb",
+    "Hex": "22A1",
+    "Description": "SQUARED DOT OPERATOR",
+    "Character": "⊡",
+    "Decimal": 8865
+  },
+  {
+    "Entity": "setmn",
+    "Hex": "2216",
+    "Description": "SET MINUS",
+    "Character": "∖",
+    "Decimal": 8726
+  },
+  {
+    "Entity": "sqcap",
+    "Hex": "2293",
+    "Description": "SQUARE CAP",
+    "Character": "⊓",
+    "Decimal": 8851
+  },
+  {
+    "Entity": "sqcup",
+    "Hex": "2294",
+    "Description": "SQUARE CUP",
+    "Character": "⊔",
+    "Decimal": 8852
+  },
+  {
+    "Entity": "sstarf",
+    "Hex": "22C6",
+    "Description": "STAR OPERATOR",
+    "Character": "⋆",
+    "Decimal": 8902
+  },
+  {
+    "Entity": "timesb",
+    "Hex": "22A0",
+    "Description": "SQUARED TIMES",
+    "Character": "⊠",
+    "Decimal": 8864
+  },
+  {
+    "Entity": "top",
+    "Hex": "22A4",
+    "Description": "DOWN TACK",
+    "Character": "⊤",
+    "Decimal": 8868
+  },
+  {
+    "Entity": "uplus",
+    "Hex": "228E",
+    "Description": "MULTISET UNION",
+    "Character": "⊎",
+    "Decimal": 8846
+  },
+  {
+    "Entity": "wreath",
+    "Hex": "2240",
+    "Description": "WREATH PRODUCT",
+    "Character": "≀",
+    "Decimal": 8768
+  },
+  {
+    "Entity": "xcirc",
+    "Hex": "25CB",
+    "Description": "WHITE CIRCLE",
+    "Character": "○",
+    "Decimal": 9675
+  },
+  {
+    "Entity": "xdtri",
+    "Hex": "25BD",
+    "Description": "WHITE DOWN-POINTING TRIANGLE",
+    "Character": "▽",
+    "Decimal": 9661
+  },
+  {
+    "Entity": "xutri",
+    "Hex": "25B3",
+    "Description": "WHITE UP-POINTING TRIANGLE",
+    "Character": "△",
+    "Decimal": 9651
+  },
+  {
+    "Entity": "prod",
+    "Hex": "220F",
+    "Description": "N-ARY PRODUCT",
+    "Character": "∏",
+    "Decimal": 8719
+  },
+  {
+    "Entity": "sum",
+    "Hex": "2211",
+    "Description": "N-ARY SUMMATION",
+    "Character": "∑",
+    "Decimal": 8721
+  },
+  {
+    "Entity": "rceil",
+    "Hex": "2309",
+    "Description": "RIGHT CEILING",
+    "Character": "⌉",
+    "Decimal": 8969
+  },
+  {
+    "Entity": "rfloor",
+    "Hex": "230B",
+    "Description": "RIGHT FLOOR",
+    "Character": "⌋",
+    "Decimal": 8971
+  },
+  {
+    "Entity": "rpargt",
+    "Hex": "E291",
+    "Description": "1.1 (June 1993)",
+    "Character": "",
+    "Decimal": 58001
+  },
+  {
+    "Entity": "urcorn",
+    "Hex": "231D",
+    "Description": "TOP RIGHT CORNER",
+    "Character": "⌝",
+    "Decimal": 8989
+  },
+  {
+    "Entity": "drcorn",
+    "Hex": "231F",
+    "Description": "BOTTOM RIGHT CORNER",
+    "Character": "⌟",
+    "Decimal": 8991
+  },
+  {
+    "Entity": "lceil",
+    "Hex": "2308",
+    "Description": "LEFT CEILING",
+    "Character": "⌈",
+    "Decimal": 8968
+  },
+  {
+    "Entity": "lfloor",
+    "Hex": "230A",
+    "Description": "LEFT FLOOR",
+    "Character": "⌊",
+    "Decimal": 8970
+  },
+  {
+    "Entity": "ulcorn",
+    "Hex": "231C",
+    "Description": "TOP LEFT CORNER",
+    "Character": "⌜",
+    "Decimal": 8988
+  },
+  {
+    "Entity": "dlcorn",
+    "Hex": "231E",
+    "Description": "BOTTOM LEFT CORNER",
+    "Character": "⌞",
+    "Decimal": 8990
+  },
+  {
+    "Entity": "gnap",
+    "Hex": "E411",
+    "Description": "1.1 (June 1993)",
+    "Character": "",
+    "Decimal": 58385
+  },
+  {
+    "Entity": "gne",
+    "Hex": "2269",
+    "Description": "Greater-Than But Not Equal To",
+    "Character": "≩",
+    "Decimal": 8809
+  },
+  {
+    "Entity": "gnsim",
+    "Hex": "22E7",
+    "Description": "GREATER-THAN BUT NOT EQUIVALENT TO",
+    "Character": "⋧",
+    "Decimal": 8935
+  },
+  {
+    "Entity": "lnap",
+    "Hex": "E2A2",
+    "Description": "1.1 (June 1993)",
+    "Character": "",
+    "Decimal": 58018
+  },
+  {
+    "Entity": "lnE",
+    "Hex": "2268",
+    "Description": "Less-Than But Not Equal To",
+    "Character": "≨",
+    "Decimal": 8808
+  },
+  {
+    "Entity": "lnsim",
+    "Hex": "22E6",
+    "Description": "Less-Than But Not Equivalent To",
+    "Character": "⋦",
+    "Decimal": 8934
+  },
+  {
+    "Entity": "nap",
+    "Hex": "2249",
+    "Description": "NOT ALMOST EQUAL TO",
+    "Character": "≉",
+    "Decimal": 8777
+  },
+  {
+    "Entity": "ncong",
+    "Hex": "2247",
+    "Description": "NEITHER APPROXIMATELY NOR ACTUALLY EQUAL TO",
+    "Character": "≇",
+    "Decimal": 8775
+  },
+  {
+    "Entity": "nequiv",
+    "Hex": "2262",
+    "Description": "NOT IDENTICAL TO",
+    "Character": "≢",
+    "Decimal": 8802
+  },
+  {
+    "Entity": "ngE",
+    "Hex": "2271",
+    "Description": "Neither Greater-Than Nor Equal To",
+    "Character": "≱",
+    "Decimal": 8817
+  },
+  {
+    "Entity": "ngt",
+    "Hex": "226F",
+    "Description": "NOT GREATER-THAN",
+    "Character": "≯",
+    "Decimal": 8815
+  },
+  {
+    "Entity": "nle",
+    "Hex": "2270",
+    "Description": "NEITHER LESS-THAN NOR EQUAL TO",
+    "Character": "≰",
+    "Decimal": 8816
+  },
+  {
+    "Entity": "nlt",
+    "Hex": "226E",
+    "Description": "NOT LESS-THAN",
+    "Character": "≮",
+    "Decimal": 8814
+  },
+  {
+    "Entity": "nltri",
+    "Hex": "22EA",
+    "Description": "NOT NORMAL SUBGROUP OF",
+    "Character": "⋪",
+    "Decimal": 8938
+  },
+  {
+    "Entity": "nltrie",
+    "Hex": "22EC",
+    "Description": "NOT NORMAL SUBGROUP OF OR EQUAL TO",
+    "Character": "⋬",
+    "Decimal": 8940
+  },
+  {
+    "Entity": "nmid",
+    "Hex": "2224",
+    "Description": "DOES NOT DIVIDE",
+    "Character": "∤",
+    "Decimal": 8740
+  },
+  {
+    "Entity": "npar",
+    "Hex": "2226",
+    "Description": "NOT PARALLEL TO",
+    "Character": "∦",
+    "Decimal": 8742
+  },
+  {
+    "Entity": "npr",
+    "Hex": "2280",
+    "Description": "DOES NOT PRECEDE",
+    "Character": "⊀",
+    "Decimal": 8832
+  },
+  {
+    "Entity": "npre",
+    "Hex": "22E0",
+    "Description": "DOES NOT PRECEDE OR EQUAL",
+    "Character": "⋠",
+    "Decimal": 8928
+  },
+  {
+    "Entity": "nrtri",
+    "Hex": "22EB",
+    "Description": "DOES NOT CONTAIN AS NORMAL SUBGROUP",
+    "Character": "⋫",
+    "Decimal": 8939
+  },
+  {
+    "Entity": "nrtrie",
+    "Hex": "22ED",
+    "Description": "DOES NOT CONTAIN AS NORMAL SUBGROUP OR EQUAL",
+    "Character": "⋭",
+    "Decimal": 8941
+  },
+  {
+    "Entity": "nsc",
+    "Hex": "2281",
+    "Description": "DOES NOT SUCCEED",
+    "Character": "⊁",
+    "Decimal": 8833
+  },
+  {
+    "Entity": "nsce",
+    "Hex": "22E1",
+    "Description": "DOES NOT SUCCEED OR EQUAL",
+    "Character": "⋡",
+    "Decimal": 8929
+  },
+  {
+    "Entity": "nsim",
+    "Hex": "2241",
+    "Description": "Not Tilde",
+    "Character": "≁",
+    "Decimal": 8769
+  },
+  {
+    "Entity": "nsime",
+    "Hex": "2244",
+    "Description": "Not Asymptotically Equal To",
+    "Character": "≄",
+    "Decimal": 8772
+  },
+  {
+    "Entity": "nsmid",
+    "Hex": "E2AA",
+    "Description": "1.1 (June 1993)",
+    "Character": "",
+    "Decimal": 58026
+  },
+  {
+    "Entity": "nsub",
+    "Hex": "2284",
+    "Description": "NOT A SUBSET OF",
+    "Character": "⊄",
+    "Decimal": 8836
+  },
+  {
+    "Entity": "nsube",
+    "Hex": "2288",
+    "Description": "Neither A Subset of Nor Equal To",
+    "Character": "⊈",
+    "Decimal": 8840
+  },
+  {
+    "Entity": "nsup",
+    "Hex": "2285",
+    "Description": "NOT A SUPERSET OF",
+    "Character": "⊅",
+    "Decimal": 8837
+  },
+  {
+    "Entity": "nsupE",
+    "Hex": "2289",
+    "Description": "Neither A Superset of Nor Equal To",
+    "Character": "⊉",
+    "Decimal": 8841
+  },
+  {
+    "Entity": "nvdash",
+    "Hex": "22AC",
+    "Description": "DOES NOT PROVE",
+    "Character": "⊬",
+    "Decimal": 8876
+  },
+  {
+    "Entity": "nvDash",
+    "Hex": "22AD",
+    "Description": "NOT TRUE",
+    "Character": "⊭",
+    "Decimal": 8877
+  },
+  {
+    "Entity": "nVDash",
+    "Hex": "22AF",
+    "Description": "NEGATED DOUBLE VERTICAL BAR DOUBLE RIGHT TURNSTILE",
+    "Character": "⊯",
+    "Decimal": 8879
+  },
+  {
+    "Entity": "nVdash",
+    "Hex": "22AE",
+    "Description": "DOES NOT FORCE",
+    "Character": "⊮",
+    "Decimal": 8878
+  },
+  {
+    "Entity": "prnap",
+    "Hex": "22E8",
+    "Description": "Precedes But Not Equivalent To",
+    "Character": "⋨",
+    "Decimal": 8936
+  },
+  {
+    "Entity": "prnE",
+    "Hex": "E2B3",
+    "Description": "1.1 (June 1993)",
+    "Character": "",
+    "Decimal": 58035
+  },
+  {
+    "Entity": "scnap",
+    "Hex": "22E9",
+    "Description": "Succeeds But Not Equivalent To",
+    "Character": "⋩",
+    "Decimal": 8937
+  },
+  {
+    "Entity": "scnE",
+    "Hex": "E2B5",
+    "Description": "1.1 (June 1993)",
+    "Character": "",
+    "Decimal": 58037
+  },
+  {
+    "Entity": "subne",
+    "Hex": "228A",
+    "Description": "Subset of with Not Equal To",
+    "Character": "⊊",
+    "Decimal": 8842
+  },
+  {
+    "Entity": "supne",
+    "Hex": "228B",
+    "Description": "Superset of with Not Equal To",
+    "Character": "⊋",
+    "Decimal": 8843
+  },
+  {
+    "Entity": "vsubnE",
+    "Hex": "E2B8",
+    "Description": "1.1 (June 1993)",
+    "Character": "",
+    "Decimal": 58040
+  },
+  {
+    "Entity": "ang",
+    "Hex": "2220",
+    "Description": "ANGLE",
+    "Character": "∠",
+    "Decimal": 8736
+  },
+  {
+    "Entity": "angmsd",
+    "Hex": "2221",
+    "Description": "MEASURED ANGLE",
+    "Character": "∡",
+    "Decimal": 8737
+  },
+  {
+    "Entity": "beth",
+    "Hex": "2136",
+    "Description": "BET SYMBOL",
+    "Character": "ℶ",
+    "Decimal": 8502
+  },
+  {
+    "Entity": "bprime",
+    "Hex": "2035",
+    "Description": "REVERSED PRIME",
+    "Character": "‵",
+    "Decimal": 8245
+  },
+  {
+    "Entity": "comp",
+    "Hex": "2201",
+    "Description": "COMPLEMENT",
+    "Character": "∁",
+    "Decimal": 8705
+  },
+  {
+    "Entity": "daleth",
+    "Hex": "2138",
+    "Description": "DALET SYMBOL",
+    "Character": "ℸ",
+    "Decimal": 8504
+  },
+  {
+    "Entity": "ell",
+    "Hex": "2113",
+    "Description": "SCRIPT SMALL L",
+    "Character": "ℓ",
+    "Decimal": 8467
+  },
+  {
+    "Entity": "empty",
+    "Hex": "2205",
+    "Description": "Empty Set",
+    "Character": "∅",
+    "Decimal": 8709
+  },
+  {
+    "Entity": "gimel",
+    "Hex": "2137",
+    "Description": "GIMEL SYMBOL",
+    "Character": "ℷ",
+    "Decimal": 8503
+  },
+  {
+    "Entity": "image",
+    "Hex": "2111",
+    "Description": "BLACK-LETTER CAPITAL I",
+    "Character": "ℑ",
+    "Decimal": 8465
+  },
+  {
+    "Entity": "inodot",
+    "Hex": "0131",
+    "Description": "LATIN SMALL LETTER DOTLESS I",
+    "Character": "ı",
+    "Decimal": 305
+  },
+  {
+    "Entity": "nexist",
+    "Hex": "2204",
+    "Description": "THERE DOES NOT EXIST",
+    "Character": "∄",
+    "Decimal": 8708
+  },
+  {
+    "Entity": "oS",
+    "Hex": "24C8",
+    "Description": "CIRCLED LATIN CAPITAL LETTER S",
+    "Character": "Ⓢ",
+    "Decimal": 9416
+  },
+  {
+    "Entity": "planck",
+    "Hex": "210F",
+    "Description": "PLANCK CONSTANT OVER TWO PI",
+    "Character": "ℏ",
+    "Decimal": 8463
+  },
+  {
+    "Entity": "real",
+    "Hex": "211C",
+    "Description": "BLACK-LETTER CAPITAL R",
+    "Character": "ℜ",
+    "Decimal": 8476
+  },
+  {
+    "Entity": "sbsol",
+    "Hex": "FE68",
+    "Description": "SMALL REVERSE SOLIDUS",
+    "Character": "﹨",
+    "Decimal": 65128
+  },
+  {
+    "Entity": "vprime",
+    "Hex": "2032",
+    "Description": "PRIME",
+    "Character": "′",
+    "Decimal": 8242
+  },
+  {
+    "Entity": "weierp",
+    "Hex": "2118",
+    "Description": "SCRIPT CAPITAL P",
+    "Character": "℘",
+    "Decimal": 8472
+  },
+  {
+    "Entity": "ape",
+    "Hex": "224A",
+    "Description": "Almost Equal or Equal To",
+    "Character": "≊",
+    "Decimal": 8778
+  },
+  {
+    "Entity": "asymp",
+    "Hex": "224D",
+    "Description": "EQUIVALENT TO",
+    "Character": "≍",
+    "Decimal": 8781
+  },
+  {
+    "Entity": "bcong",
+    "Hex": "224C",
+    "Description": "ALL EQUAL TO",
+    "Character": "≌",
+    "Decimal": 8780
+  },
+  {
+    "Entity": "bepsi",
+    "Hex": "220D",
+    "Description": "SMALL CONTAINS AS MEMBER",
+    "Character": "∍",
+    "Decimal": 8717
+  },
+  {
+    "Entity": "bowtie",
+    "Hex": "22C8",
+    "Description": "Bowtie",
+    "Character": "⋈",
+    "Decimal": 8904
+  },
+  {
+    "Entity": "bsim",
+    "Hex": "223D",
+    "Description": "Reversed Tilde",
+    "Character": "∽",
+    "Decimal": 8765
+  },
+  {
+    "Entity": "bsime",
+    "Hex": "22CD",
+    "Description": "Reversed Tilde Equals",
+    "Character": "⋍",
+    "Decimal": 8909
+  },
+  {
+    "Entity": "bump",
+    "Hex": "224E",
+    "Description": "Geometrically Equivalent To",
+    "Character": "≎",
+    "Decimal": 8782
+  },
+  {
+    "Entity": "bumpe",
+    "Hex": "224F",
+    "Description": "Difference Between",
+    "Character": "≏",
+    "Decimal": 8783
+  },
+  {
+    "Entity": "cire",
+    "Hex": "2257",
+    "Description": "Ring Equal To",
+    "Character": "≗",
+    "Decimal": 8791
+  },
+  {
+    "Entity": "colone",
+    "Hex": "2254",
+    "Description": "Colon Equals",
+    "Character": "≔",
+    "Decimal": 8788
+  },
+  {
+    "Entity": "cuepr",
+    "Hex": "22DE",
+    "Description": "Equal to or Precedes",
+    "Character": "⋞",
+    "Decimal": 8926
+  },
+  {
+    "Entity": "cuesc",
+    "Hex": "22DF",
+    "Description": "Equal to or Succeeds",
+    "Character": "⋟",
+    "Decimal": 8927
+  },
+  {
+    "Entity": "cupre",
+    "Hex": "227C",
+    "Description": "Precedes or Equal To",
+    "Character": "≼",
+    "Decimal": 8828
+  },
+  {
+    "Entity": "dashv",
+    "Hex": "22A3",
+    "Description": "Left Tack",
+    "Character": "⊣",
+    "Decimal": 8867
+  },
+  {
+    "Entity": "ecir",
+    "Hex": "2256",
+    "Description": "Ring In Equal To",
+    "Character": "≖",
+    "Decimal": 8790
+  },
+  {
+    "Entity": "ecolon",
+    "Hex": "2255",
+    "Description": "Equals Colon",
+    "Character": "≕",
+    "Decimal": 8789
+  },
+  {
+    "Entity": "eDot",
+    "Hex": "2251",
+    "Description": "Geometrically Equal To",
+    "Character": "≑",
+    "Decimal": 8785
+  },
+  {
+    "Entity": "esdot",
+    "Hex": "2250",
+    "Description": "Approaches the Limit",
+    "Character": "≐",
+    "Decimal": 8784
+  },
+  {
+    "Entity": "efDot",
+    "Hex": "2252",
+    "Description": "Approximately Equal to or the Image Of",
+    "Character": "≒",
+    "Decimal": 8786
+  },
+  {
+    "Entity": "egs",
+    "Hex": "22DD",
+    "Description": "Equal to or Greater-Than",
+    "Character": "⋝",
+    "Decimal": 8925
+  },
+  {
+    "Entity": "els",
+    "Hex": "22DC",
+    "Description": "Equal to or Less-Than",
+    "Character": "⋜",
+    "Decimal": 8924
+  },
+  {
+    "Entity": "erDot",
+    "Hex": "2253",
+    "Description": "Image of or Approximately Equal To",
+    "Character": "≓",
+    "Decimal": 8787
+  },
+  {
+    "Entity": "fork",
+    "Hex": "22D4",
+    "Description": "Pitchfork",
+    "Character": "⋔",
+    "Decimal": 8916
+  },
+  {
+    "Entity": "frown",
+    "Hex": "2322",
+    "Description": "Frown",
+    "Character": "⌢",
+    "Decimal": 8994
+  },
+  {
+    "Entity": "gap",
+    "Hex": "2273",
+    "Description": "GREATER-THAN OR EQUIVALENT TO",
+    "Character": "≳",
+    "Decimal": 8819
+  },
+  {
+    "Entity": "gsdot",
+    "Hex": "22D7",
+    "Description": "Greater-Than with Dot",
+    "Character": "⋗",
+    "Decimal": 8919
+  },
+  {
+    "Entity": "gE",
+    "Hex": "2267",
+    "Description": "Greater-Than Over Equal To",
+    "Character": "≧",
+    "Decimal": 8807
+  },
+  {
+    "Entity": "gel",
+    "Hex": "22DB",
+    "Description": "Greater-Than Equal to or Less-Than",
+    "Character": "⋛",
+    "Decimal": 8923
+  },
+  {
+    "Entity": "ges",
+    "Hex": "2265",
+    "Description": "GREATER-THAN OR EQUAL TO",
+    "Character": "≥",
+    "Decimal": 8805
+  },
+  {
+    "Entity": "Gg",
+    "Hex": "22D9",
+    "Description": "VERY MUCH GREATER-THAN",
+    "Character": "⋙",
+    "Decimal": 8921
+  },
+  {
+    "Entity": "gl",
+    "Hex": "2277",
+    "Description": "Greater-Than or Less-Than",
+    "Character": "≷",
+    "Decimal": 8823
+  },
+  {
+    "Entity": "Gt",
+    "Hex": "226B",
+    "Description": "MUCH GREATER-THAN",
+    "Character": "≫",
+    "Decimal": 8811
+  },
+  {
+    "Entity": "lap",
+    "Hex": "2272",
+    "Description": "LESS-THAN OR EQUIVALENT TO",
+    "Character": "≲",
+    "Decimal": 8818
+  },
+  {
+    "Entity": "ldot",
+    "Hex": "22D6",
+    "Description": "Less-Than with Dot",
+    "Character": "⋖",
+    "Decimal": 8918
+  },
+  {
+    "Entity": "lE",
+    "Hex": "2266",
+    "Description": "Less-Than Over Equal To",
+    "Character": "≦",
+    "Decimal": 8806
+  },
+  {
+    "Entity": "lEg",
+    "Hex": "22DA",
+    "Description": "Less-Than Equal to or Greater-Than",
+    "Character": "⋚",
+    "Decimal": 8922
+  },
+  {
+    "Entity": "les",
+    "Hex": "2264",
+    "Description": "LESS-THAN OR EQUAL TO",
+    "Character": "≤",
+    "Decimal": 8804
+  },
+  {
+    "Entity": "lg",
+    "Hex": "2276",
+    "Description": "LESS-THAN OR GREATER-THAN",
+    "Character": "≶",
+    "Decimal": 8822
+  },
+  {
+    "Entity": "Ll",
+    "Hex": "22D8",
+    "Description": "Very Much Less-Than",
+    "Character": "⋘",
+    "Decimal": 8920
+  },
+  {
+    "Entity": "Lt",
+    "Hex": "226A",
+    "Description": "MUCH LESS-THAN",
+    "Character": "≪",
+    "Decimal": 8810
+  },
+  {
+    "Entity": "ltrie",
+    "Hex": "22B4",
+    "Description": "Normal Subgroup of or Equal To",
+    "Character": "⊴",
+    "Decimal": 8884
+  },
+  {
+    "Entity": "mid",
+    "Hex": "2223",
+    "Description": "Divides",
+    "Character": "∣",
+    "Decimal": 8739
+  },
+  {
+    "Entity": "models",
+    "Hex": "22A7",
+    "Description": "MODELS",
+    "Character": "⊧",
+    "Decimal": 8871
+  },
+  {
+    "Entity": "pr",
+    "Hex": "227A",
+    "Description": "Precedes",
+    "Character": "≺",
+    "Decimal": 8826
+  },
+  {
+    "Entity": "prap",
+    "Hex": "227E",
+    "Description": "Precedes or Equivalent To",
+    "Character": "≾",
+    "Decimal": 8830
+  },
+  {
+    "Entity": "rtrie",
+    "Hex": "22B5",
+    "Description": "Contains as Normal Subgroup or Equal To",
+    "Character": "⊵",
+    "Decimal": 8885
+  },
+  {
+    "Entity": "sc",
+    "Hex": "227B",
+    "Description": "Succeeds",
+    "Character": "≻",
+    "Decimal": 8827
+  },
+  {
+    "Entity": "scap",
+    "Hex": "227F",
+    "Description": "Succeeds or Equivalent To",
+    "Character": "≿",
+    "Decimal": 8831
+  },
+  {
+    "Entity": "sccue",
+    "Hex": "227D",
+    "Description": "Succeeds or Equal To",
+    "Character": "≽",
+    "Decimal": 8829
+  },
+  {
+    "Entity": "smid",
+    "Hex": "E301",
+    "Description": "1.1 (June 1993)",
+    "Character": "",
+    "Decimal": 58113
+  },
+  {
+    "Entity": "smile",
+    "Hex": "2323",
+    "Description": "Smile",
+    "Character": "⌣",
+    "Decimal": 8995
+  },
+  {
+    "Entity": "spar",
+    "Hex": "2225",
+    "Description": "PARALLEL TO",
+    "Character": "∥",
+    "Decimal": 8741
+  },
+  {
+    "Entity": "sqsub",
+    "Hex": "228F",
+    "Description": "Square Image Of",
+    "Character": "⊏",
+    "Decimal": 8847
+  },
+  {
+    "Entity": "sqsube",
+    "Hex": "2291",
+    "Description": "Square Image of or Equal To",
+    "Character": "⊑",
+    "Decimal": 8849
+  },
+  {
+    "Entity": "sqsup",
+    "Hex": "2290",
+    "Description": "Square Original Of",
+    "Character": "⊐",
+    "Decimal": 8848
+  },
+  {
+    "Entity": "sqsupe",
+    "Hex": "2292",
+    "Description": "Square Original of or Equal To",
+    "Character": "⊒",
+    "Decimal": 8850
+  },
+  {
+    "Entity": "Sub",
+    "Hex": "22D0",
+    "Description": "Double Subset",
+    "Character": "⋐",
+    "Decimal": 8912
+  },
+  {
+    "Entity": "subE",
+    "Hex": "2286",
+    "Description": "Subset of or Equal To",
+    "Character": "⊆",
+    "Decimal": 8838
+  },
+  {
+    "Entity": "Sup",
+    "Hex": "22D1",
+    "Description": "Double Superset",
+    "Character": "⋑",
+    "Decimal": 8913
+  },
+  {
+    "Entity": "supE",
+    "Hex": "2287",
+    "Description": "Superset of or Equal To",
+    "Character": "⊇",
+    "Decimal": 8839
+  },
+  {
+    "Entity": "thkap",
+    "Hex": "2248",
+    "Description": "ALMOST EQUAL TO",
+    "Character": "≈",
+    "Decimal": 8776
+  },
+  {
+    "Entity": "thksim",
+    "Hex": "223C",
+    "Description": "TILDE OPERATOR",
+    "Character": "∼",
+    "Decimal": 8764
+  },
+  {
+    "Entity": "trie",
+    "Hex": "225C",
+    "Description": "Delta Equal To",
+    "Character": "≜",
+    "Decimal": 8796
+  },
+  {
+    "Entity": "twixt",
+    "Hex": "226C",
+    "Description": "BETWEEN",
+    "Character": "≬",
+    "Decimal": 8812
+  },
+  {
+    "Entity": "vdash",
+    "Hex": "22A2",
+    "Description": "Right Tack",
+    "Character": "⊢",
+    "Decimal": 8866
+  },
+  {
+    "Entity": "Vdash",
+    "Hex": "22A9",
+    "Description": "Forces",
+    "Character": "⊩",
+    "Decimal": 8873
+  },
+  {
+    "Entity": "vDash",
+    "Hex": "22A8",
+    "Description": "True",
+    "Character": "⊨",
+    "Decimal": 8872
+  },
+  {
+    "Entity": "veebar",
+    "Hex": "22BB",
+    "Description": "Xor",
+    "Character": "⊻",
+    "Decimal": 8891
+  },
+  {
+    "Entity": "vltri",
+    "Hex": "22B2",
+    "Description": "Normal Subgroup Of",
+    "Character": "⊲",
+    "Decimal": 8882
+  },
+  {
+    "Entity": "vprop",
+    "Hex": "221D",
+    "Description": "Proportional To",
+    "Character": "∝",
+    "Decimal": 8733
+  },
+  {
+    "Entity": "vrtri",
+    "Hex": "22B3",
+    "Description": "Contains as Normal Subgroup",
+    "Character": "⊳",
+    "Decimal": 8883
+  },
+  {
+    "Entity": "Vvdash",
+    "Hex": "22AA",
+    "Description": "Triple Vertical Bar Right Turnstile",
+    "Character": "⊪",
+    "Decimal": 8874
+  },
+  {
+    "Entity": "boxh",
+    "Hex": "2500",
+    "Description": "BOX DRAWINGS LIGHT HORIZONTAL",
+    "Character": "─",
+    "Decimal": 9472
+  },
+  {
+    "Entity": "boxv",
+    "Hex": "2502",
+    "Description": "BOX DRAWINGS LIGHT VERTICAL",
+    "Character": "│",
+    "Decimal": 9474
+  },
+  {
+    "Entity": "boxur",
+    "Hex": "2514",
+    "Description": "BOX DRAWINGS LIGHT UP AND RIGHT",
+    "Character": "└",
+    "Decimal": 9492
+  },
+  {
+    "Entity": "boxul",
+    "Hex": "2518",
+    "Description": "BOX DRAWINGS LIGHT UP AND LEFT",
+    "Character": "┘",
+    "Decimal": 9496
+  },
+  {
+    "Entity": "boxdl",
+    "Hex": "2510",
+    "Description": "BOX DRAWINGS LIGHT DOWN AND LEFT",
+    "Character": "┐",
+    "Decimal": 9488
+  },
+  {
+    "Entity": "boxdr",
+    "Hex": "250C",
+    "Description": "BOX DRAWINGS LIGHT DOWN AND RIGHT",
+    "Character": "┌",
+    "Decimal": 9484
+  },
+  {
+    "Entity": "boxvr",
+    "Hex": "251C",
+    "Description": "BOX DRAWINGS LIGHT VERTICAL AND RIGHT",
+    "Character": "├",
+    "Decimal": 9500
+  },
+  {
+    "Entity": "boxhu",
+    "Hex": "2534",
+    "Description": "BOX DRAWINGS LIGHT UP AND HORIZONTAL",
+    "Character": "┴",
+    "Decimal": 9524
+  },
+  {
+    "Entity": "boxvl",
+    "Hex": "2524",
+    "Description": "BOX DRAWINGS LIGHT VERTICAL AND LEFT",
+    "Character": "┤",
+    "Decimal": 9508
+  },
+  {
+    "Entity": "boxhd",
+    "Hex": "252C",
+    "Description": "BOX DRAWINGS LIGHT DOWN AND HORIZONTAL",
+    "Character": "┬",
+    "Decimal": 9516
+  },
+  {
+    "Entity": "boxvh",
+    "Hex": "253C",
+    "Description": "BOX DRAWINGS LIGHT VERTICAL AND HORIZONTAL",
+    "Character": "┼",
+    "Decimal": 9532
+  },
+  {
+    "Entity": "boxvR",
+    "Hex": "255E",
+    "Description": "BOX DRAWINGS VERTICAL SINGLE AND RIGHT DOUBLE",
+    "Character": "╞",
+    "Decimal": 9566
+  },
+  {
+    "Entity": "boxhU",
+    "Hex": "2567",
+    "Description": "BOX DRAWINGS UP SINGLE AND HORIZONTAL DOUBLE",
+    "Character": "╧",
+    "Decimal": 9575
+  },
+  {
+    "Entity": "boxvL",
+    "Hex": "2561",
+    "Description": "BOX DRAWINGS VERTICAL SINGLE AND LEFT DOUBLE",
+    "Character": "╡",
+    "Decimal": 9569
+  },
+  {
+    "Entity": "boxhD",
+    "Hex": "2564",
+    "Description": "BOX DRAWINGS DOWN SINGLE AND HORIZONTAL DOUBLE",
+    "Character": "╤",
+    "Decimal": 9572
+  },
+  {
+    "Entity": "boxvH",
+    "Hex": "256A",
+    "Description": "BOX DRAWINGS VERTICAL SINGLE AND HORIZONTAL DOUBLE",
+    "Character": "╪",
+    "Decimal": 9578
+  },
+  {
+    "Entity": "boxH",
+    "Hex": "2550",
+    "Description": "BOX DRAWINGS DOUBLE HORIZONTAL",
+    "Character": "═",
+    "Decimal": 9552
+  },
+  {
+    "Entity": "boxV",
+    "Hex": "2551",
+    "Description": "BOX DRAWINGS DOUBLE VERTICAL",
+    "Character": "║",
+    "Decimal": 9553
+  },
+  {
+    "Entity": "boxUR",
+    "Hex": "2558",
+    "Description": "BOX DRAWINGS UP SINGLE AND RIGHT DOUBLE",
+    "Character": "╘",
+    "Decimal": 9560
+  },
+  {
+    "Entity": "boxUL",
+    "Hex": "255B",
+    "Description": "BOX DRAWINGS UP SINGLE AND LEFT DOUBLE",
+    "Character": "╛",
+    "Decimal": 9563
+  },
+  {
+    "Entity": "boxDL",
+    "Hex": "2555",
+    "Description": "BOX DRAWINGS DOWN SINGLE AND LEFT DOUBLE",
+    "Character": "╕",
+    "Decimal": 9557
+  },
+  {
+    "Entity": "boxDR",
+    "Hex": "2552",
+    "Description": "BOX DRAWINGS DOWN SINGLE AND RIGHT DOUBLE",
+    "Character": "╒",
+    "Decimal": 9554
+  },
+  {
+    "Entity": "boxVR",
+    "Hex": "255F",
+    "Description": "BOX DRAWINGS VERTICAL DOUBLE AND RIGHT SINGLE",
+    "Character": "╟",
+    "Decimal": 9567
+  },
+  {
+    "Entity": "boxHU",
+    "Hex": "2568",
+    "Description": "BOX DRAWINGS UP DOUBLE AND HORIZONTAL SINGLE",
+    "Character": "╨",
+    "Decimal": 9576
+  },
+  {
+    "Entity": "boxVL",
+    "Hex": "2562",
+    "Description": "BOX DRAWINGS VERTICAL DOUBLE AND LEFT SINGLE",
+    "Character": "╢",
+    "Decimal": 9570
+  },
+  {
+    "Entity": "boxHD",
+    "Hex": "2565",
+    "Description": "BOX DRAWINGS DOWN DOUBLE AND HORIZONTAL SINGLE",
+    "Character": "╥",
+    "Decimal": 9573
+  },
+  {
+    "Entity": "boxVH",
+    "Hex": "256B",
+    "Description": "BOX DRAWINGS VERTICAL DOUBLE AND HORIZONTAL SINGLE",
+    "Character": "╫",
+    "Decimal": 9579
+  },
+  {
+    "Entity": "boxVr",
+    "Hex": "2560",
+    "Description": "BOX DRAWINGS DOUBLE VERTICAL AND RIGHT",
+    "Character": "╠",
+    "Decimal": 9568
+  },
+  {
+    "Entity": "boxHu",
+    "Hex": "2569",
+    "Description": "BOX DRAWINGS DOUBLE UP AND HORIZONTAL",
+    "Character": "╩",
+    "Decimal": 9577
+  },
+  {
+    "Entity": "boxVl",
+    "Hex": "2563",
+    "Description": "BOX DRAWINGS DOUBLE VERTICAL AND LEFT",
+    "Character": "╣",
+    "Decimal": 9571
+  },
+  {
+    "Entity": "boxHd",
+    "Hex": "2566",
+    "Description": "BOX DRAWINGS DOUBLE DOWN AND HORIZONTAL",
+    "Character": "╦",
+    "Decimal": 9574
+  },
+  {
+    "Entity": "boxVh",
+    "Hex": "256C",
+    "Description": "BOX DRAWINGS DOUBLE VERTICAL AND HORIZONTAL",
+    "Character": "╬",
+    "Decimal": 9580
+  },
+  {
+    "Entity": "boxuR",
+    "Hex": "2559",
+    "Description": "BOX DRAWINGS UP DOUBLE AND RIGHT SINGLE",
+    "Character": "╙",
+    "Decimal": 9561
+  },
+  {
+    "Entity": "boxUl",
+    "Hex": "255C",
+    "Description": "BOX DRAWINGS UP DOUBLE AND LEFT SINGLE",
+    "Character": "╜",
+    "Decimal": 9564
+  },
+  {
+    "Entity": "boxdL",
+    "Hex": "2556",
+    "Description": "BOX DRAWINGS DOWN DOUBLE AND LEFT SINGLE",
+    "Character": "╖",
+    "Decimal": 9558
+  },
+  {
+    "Entity": "boxDr",
+    "Hex": "2553",
+    "Description": "BOX DRAWINGS DOWN DOUBLE AND RIGHT SINGLE",
+    "Character": "╓",
+    "Decimal": 9555
+  },
+  {
+    "Entity": "boxUr",
+    "Hex": "255A",
+    "Description": "BOX DRAWINGS DOUBLE UP AND RIGHT",
+    "Character": "╚",
+    "Decimal": 9562
+  },
+  {
+    "Entity": "boxuL",
+    "Hex": "255D",
+    "Description": "BOX DRAWINGS DOUBLE UP AND LEFT",
+    "Character": "╝",
+    "Decimal": 9565
+  },
+  {
+    "Entity": "boxDl",
+    "Hex": "2557",
+    "Description": "BOX DRAWINGS DOUBLE DOWN AND LEFT",
+    "Character": "╗",
+    "Decimal": 9559
+  },
+  {
+    "Entity": "boxdR",
+    "Hex": "2554",
+    "Description": "BOX DRAWINGS DOUBLE DOWN AND RIGHT",
+    "Character": "╔",
+    "Decimal": 9556
+  },
+  {
+    "Entity": "acy",
+    "Hex": "0430",
+    "Description": "CYRILLIC SMALL LETTER A",
+    "Character": "а",
+    "Decimal": 1072
+  },
+  {
+    "Entity": "Acy",
+    "Hex": "0410",
+    "Description": "CYRILLIC CAPITAL LETTER A",
+    "Character": "А",
+    "Decimal": 1040
+  },
+  {
+    "Entity": "bcy",
+    "Hex": "0431",
+    "Description": "CYRILLIC SMALL LETTER BE",
+    "Character": "б",
+    "Decimal": 1073
+  },
+  {
+    "Entity": "Bcy",
+    "Hex": "0411",
+    "Description": "CYRILLIC CAPITAL LETTER BE",
+    "Character": "Б",
+    "Decimal": 1041
+  },
+  {
+    "Entity": "vcy",
+    "Hex": "0432",
+    "Description": "CYRILLIC SMALL LETTER VE",
+    "Character": "в",
+    "Decimal": 1074
+  },
+  {
+    "Entity": "Vcy",
+    "Hex": "0412",
+    "Description": "CYRILLIC CAPITAL LETTER VE",
+    "Character": "В",
+    "Decimal": 1042
+  },
+  {
+    "Entity": "gcy",
+    "Hex": "0433",
+    "Description": "CYRILLIC SMALL LETTER GHE",
+    "Character": "г",
+    "Decimal": 1075
+  },
+  {
+    "Entity": "Gcy",
+    "Hex": "0413",
+    "Description": "CYRILLIC CAPITAL LETTER GHE",
+    "Character": "Г",
+    "Decimal": 1043
+  },
+  {
+    "Entity": "dcy",
+    "Hex": "0434",
+    "Description": "CYRILLIC SMALL LETTER DE",
+    "Character": "д",
+    "Decimal": 1076
+  },
+  {
+    "Entity": "Dcy",
+    "Hex": "0414",
+    "Description": "CYRILLIC CAPITAL LETTER DE",
+    "Character": "Д",
+    "Decimal": 1044
+  },
+  {
+    "Entity": "iecy",
+    "Hex": "0435",
+    "Description": "CYRILLIC SMALL LETTER IE",
+    "Character": "е",
+    "Decimal": 1077
+  },
+  {
+    "Entity": "IEcy",
+    "Hex": "0415",
+    "Description": "CYRILLIC CAPITAL LETTER IE",
+    "Character": "Е",
+    "Decimal": 1045
+  },
+  {
+    "Entity": "iocy",
+    "Hex": "0451",
+    "Description": "CYRILLIC SMALL LETTER IO",
+    "Character": "ё",
+    "Decimal": 1105
+  },
+  {
+    "Entity": "IOcy",
+    "Hex": "0401",
+    "Description": "CYRILLIC CAPITAL LETTER IO",
+    "Character": "Ё",
+    "Decimal": 1025
+  },
+  {
+    "Entity": "zhcy",
+    "Hex": "0436",
+    "Description": "CYRILLIC SMALL LETTER ZHE",
+    "Character": "ж",
+    "Decimal": 1078
+  },
+  {
+    "Entity": "ZHcy",
+    "Hex": "0416",
+    "Description": "CYRILLIC CAPITAL LETTER ZHE",
+    "Character": "Ж",
+    "Decimal": 1046
+  },
+  {
+    "Entity": "zcy",
+    "Hex": "0437",
+    "Description": "CYRILLIC SMALL LETTER ZE",
+    "Character": "з",
+    "Decimal": 1079
+  },
+  {
+    "Entity": "Zcy",
+    "Hex": "0417",
+    "Description": "CYRILLIC CAPITAL LETTER ZE",
+    "Character": "З",
+    "Decimal": 1047
+  },
+  {
+    "Entity": "icy",
+    "Hex": "0438",
+    "Description": "CYRILLIC SMALL LETTER I",
+    "Character": "и",
+    "Decimal": 1080
+  },
+  {
+    "Entity": "Icy",
+    "Hex": "0418",
+    "Description": "CYRILLIC CAPITAL LETTER I",
+    "Character": "И",
+    "Decimal": 1048
+  },
+  {
+    "Entity": "jcy",
+    "Hex": "0439",
+    "Description": "CYRILLIC SMALL LETTER SHORT I",
+    "Character": "й",
+    "Decimal": 1081
+  },
+  {
+    "Entity": "Jcy",
+    "Hex": "0419",
+    "Description": "CYRILLIC CAPITAL LETTER SHORT I",
+    "Character": "Й",
+    "Decimal": 1049
+  },
+  {
+    "Entity": "kcy",
+    "Hex": "043A",
+    "Description": "CYRILLIC SMALL LETTER KA",
+    "Character": "к",
+    "Decimal": 1082
+  },
+  {
+    "Entity": "Kcy",
+    "Hex": "041A",
+    "Description": "CYRILLIC CAPITAL LETTER KA",
+    "Character": "К",
+    "Decimal": 1050
+  },
+  {
+    "Entity": "lcy",
+    "Hex": "043B",
+    "Description": "CYRILLIC SMALL LETTER EL",
+    "Character": "л",
+    "Decimal": 1083
+  },
+  {
+    "Entity": "Lcy",
+    "Hex": "041B",
+    "Description": "CYRILLIC CAPITAL LETTER EL",
+    "Character": "Л",
+    "Decimal": 1051
+  },
+  {
+    "Entity": "mcy",
+    "Hex": "043C",
+    "Description": "CYRILLIC SMALL LETTER EM",
+    "Character": "м",
+    "Decimal": 1084
+  },
+  {
+    "Entity": "Mcy",
+    "Hex": "041C",
+    "Description": "CYRILLIC CAPITAL LETTER EM",
+    "Character": "М",
+    "Decimal": 1052
+  },
+  {
+    "Entity": "ncy",
+    "Hex": "043D",
+    "Description": "CYRILLIC SMALL LETTER EN",
+    "Character": "н",
+    "Decimal": 1085
+  },
+  {
+    "Entity": "Ncy",
+    "Hex": "041D",
+    "Description": "CYRILLIC CAPITAL LETTER EN",
+    "Character": "Н",
+    "Decimal": 1053
+  },
+  {
+    "Entity": "ocy",
+    "Hex": "043E",
+    "Description": "CYRILLIC SMALL LETTER O",
+    "Character": "о",
+    "Decimal": 1086
+  },
+  {
+    "Entity": "Ocy",
+    "Hex": "041E",
+    "Description": "CYRILLIC CAPITAL LETTER O",
+    "Character": "О",
+    "Decimal": 1054
+  },
+  {
+    "Entity": "pcy",
+    "Hex": "043F",
+    "Description": "CYRILLIC SMALL LETTER PE",
+    "Character": "п",
+    "Decimal": 1087
+  },
+  {
+    "Entity": "Pcy",
+    "Hex": "041F",
+    "Description": "CYRILLIC CAPITAL LETTER PE",
+    "Character": "П",
+    "Decimal": 1055
+  },
+  {
+    "Entity": "rcy",
+    "Hex": "0440",
+    "Description": "CYRILLIC SMALL LETTER ER",
+    "Character": "р",
+    "Decimal": 1088
+  },
+  {
+    "Entity": "Rcy",
+    "Hex": "0420",
+    "Description": "CYRILLIC CAPITAL LETTER ER",
+    "Character": "Р",
+    "Decimal": 1056
+  },
+  {
+    "Entity": "scy",
+    "Hex": "0441",
+    "Description": "CYRILLIC SMALL LETTER ES",
+    "Character": "с",
+    "Decimal": 1089
+  },
+  {
+    "Entity": "Scy",
+    "Hex": "0421",
+    "Description": "CYRILLIC CAPITAL LETTER ES",
+    "Character": "С",
+    "Decimal": 1057
+  },
+  {
+    "Entity": "tcy",
+    "Hex": "0442",
+    "Description": "CYRILLIC SMALL LETTER TE",
+    "Character": "т",
+    "Decimal": 1090
+  },
+  {
+    "Entity": "Tcy",
+    "Hex": "0422",
+    "Description": "CYRILLIC CAPITAL LETTER TE",
+    "Character": "Т",
+    "Decimal": 1058
+  },
+  {
+    "Entity": "ucy",
+    "Hex": "0443",
+    "Description": "CYRILLIC SMALL LETTER U",
+    "Character": "у",
+    "Decimal": 1091
+  },
+  {
+    "Entity": "Ucy",
+    "Hex": "0423",
+    "Description": "CYRILLIC CAPITAL LETTER U",
+    "Character": "У",
+    "Decimal": 1059
+  },
+  {
+    "Entity": "fcy",
+    "Hex": "0444",
+    "Description": "CYRILLIC SMALL LETTER EF",
+    "Character": "ф",
+    "Decimal": 1092
+  },
+  {
+    "Entity": "Fcy",
+    "Hex": "0424",
+    "Description": "CYRILLIC CAPITAL LETTER EF",
+    "Character": "Ф",
+    "Decimal": 1060
+  },
+  {
+    "Entity": "khcy",
+    "Hex": "0445",
+    "Description": "CYRILLIC SMALL LETTER HA",
+    "Character": "х",
+    "Decimal": 1093
+  },
+  {
+    "Entity": "KHcy",
+    "Hex": "0425",
+    "Description": "CYRILLIC CAPITAL LETTER HA",
+    "Character": "Х",
+    "Decimal": 1061
+  },
+  {
+    "Entity": "tscy",
+    "Hex": "0446",
+    "Description": "CYRILLIC SMALL LETTER TSE",
+    "Character": "ц",
+    "Decimal": 1094
+  },
+  {
+    "Entity": "TScy",
+    "Hex": "0426",
+    "Description": "CYRILLIC CAPITAL LETTER TSE",
+    "Character": "Ц",
+    "Decimal": 1062
+  },
+  {
+    "Entity": "chcy",
+    "Hex": "0447",
+    "Description": "CYRILLIC SMALL LETTER CHE",
+    "Character": "ч",
+    "Decimal": 1095
+  },
+  {
+    "Entity": "CHcy",
+    "Hex": "0427",
+    "Description": "CYRILLIC CAPITAL LETTER CHE",
+    "Character": "Ч",
+    "Decimal": 1063
+  },
+  {
+    "Entity": "shcy",
+    "Hex": "0448",
+    "Description": "CYRILLIC SMALL LETTER SHA",
+    "Character": "ш",
+    "Decimal": 1096
+  },
+  {
+    "Entity": "SHcy",
+    "Hex": "0428",
+    "Description": "CYRILLIC CAPITAL LETTER SHA",
+    "Character": "Ш",
+    "Decimal": 1064
+  },
+  {
+    "Entity": "shchcy",
+    "Hex": "0449",
+    "Description": "CYRILLIC SMALL LETTER SHCHA",
+    "Character": "щ",
+    "Decimal": 1097
+  },
+  {
+    "Entity": "SHCHcy",
+    "Hex": "0429",
+    "Description": "CYRILLIC CAPITAL LETTER SHCHA",
+    "Character": "Щ",
+    "Decimal": 1065
+  },
+  {
+    "Entity": "hardcy",
+    "Hex": "044A",
+    "Description": "CYRILLIC SMALL LETTER HARD SIGN",
+    "Character": "ъ",
+    "Decimal": 1098
+  },
+  {
+    "Entity": "HARDcy",
+    "Hex": "042A",
+    "Description": "CYRILLIC CAPITAL LETTER HARD SIGN",
+    "Character": "Ъ",
+    "Decimal": 1066
+  },
+  {
+    "Entity": "ycy",
+    "Hex": "044B",
+    "Description": "CYRILLIC SMALL LETTER YERU",
+    "Character": "ы",
+    "Decimal": 1099
+  },
+  {
+    "Entity": "Ycy",
+    "Hex": "042B",
+    "Description": "CYRILLIC CAPITAL LETTER YERU",
+    "Character": "Ы",
+    "Decimal": 1067
+  },
+  {
+    "Entity": "softcy",
+    "Hex": "044C",
+    "Description": "CYRILLIC SMALL LETTER SOFT SIGN",
+    "Character": "ь",
+    "Decimal": 1100
+  },
+  {
+    "Entity": "SOFTcy",
+    "Hex": "042C",
+    "Description": "CYRILLIC CAPITAL LETTER SOFT SIGN",
+    "Character": "Ь",
+    "Decimal": 1068
+  },
+  {
+    "Entity": "ecy",
+    "Hex": "044D",
+    "Description": "CYRILLIC SMALL LETTER E",
+    "Character": "э",
+    "Decimal": 1101
+  },
+  {
+    "Entity": "Ecy",
+    "Hex": "042D",
+    "Description": "CYRILLIC CAPITAL LETTER E",
+    "Character": "Э",
+    "Decimal": 1069
+  },
+  {
+    "Entity": "yucy",
+    "Hex": "044E",
+    "Description": "CYRILLIC SMALL LETTER YU",
+    "Character": "ю",
+    "Decimal": 1102
+  },
+  {
+    "Entity": "YUcy",
+    "Hex": "042E",
+    "Description": "CYRILLIC CAPITAL LETTER YU",
+    "Character": "Ю",
+    "Decimal": 1070
+  },
+  {
+    "Entity": "yacy",
+    "Hex": "044F",
+    "Description": "CYRILLIC SMALL LETTER YA",
+    "Character": "я",
+    "Decimal": 1103
+  },
+  {
+    "Entity": "YAcy",
+    "Hex": "042F",
+    "Description": "CYRILLIC CAPITAL LETTER YA",
+    "Character": "Я",
+    "Decimal": 1071
+  },
+  {
+    "Entity": "numero",
+    "Hex": "2116",
+    "Description": "NUMERO SIGN",
+    "Character": "№",
+    "Decimal": 8470
+  },
+  {
+    "Entity": "djcy",
+    "Hex": "0452",
+    "Description": "CYRILLIC SMALL LETTER DJE",
+    "Character": "ђ",
+    "Decimal": 1106
+  },
+  {
+    "Entity": "DJcy",
+    "Hex": "0402",
+    "Description": "CYRILLIC CAPITAL LETTER DJE",
+    "Character": "Ђ",
+    "Decimal": 1026
+  },
+  {
+    "Entity": "gjcy",
+    "Hex": "0453",
+    "Description": "CYRILLIC SMALL LETTER GJE",
+    "Character": "ѓ",
+    "Decimal": 1107
+  },
+  {
+    "Entity": "GJcy",
+    "Hex": "0403",
+    "Description": "CYRILLIC CAPITAL LETTER GJE",
+    "Character": "Ѓ",
+    "Decimal": 1027
+  },
+  {
+    "Entity": "jukcy",
+    "Hex": "0454",
+    "Description": "CYRILLIC SMALL LETTER UKRAINIAN IE",
+    "Character": "є",
+    "Decimal": 1108
+  },
+  {
+    "Entity": "Jukcy",
+    "Hex": "0404",
+    "Description": "CYRILLIC CAPITAL LETTER UKRAINIAN IE",
+    "Character": "Є",
+    "Decimal": 1028
+  },
+  {
+    "Entity": "dscy",
+    "Hex": "0455",
+    "Description": "CYRILLIC SMALL LETTER DZE",
+    "Character": "ѕ",
+    "Decimal": 1109
+  },
+  {
+    "Entity": "DScy",
+    "Hex": "0405",
+    "Description": "CYRILLIC CAPITAL LETTER DZE",
+    "Character": "Ѕ",
+    "Decimal": 1029
+  },
+  {
+    "Entity": "iukcy",
+    "Hex": "0456",
+    "Description": "CYRILLIC SMALL LETTER BYELORUSSIAN-UKRAINIAN I",
+    "Character": "і",
+    "Decimal": 1110
+  },
+  {
+    "Entity": "Iukcy",
+    "Hex": "0406",
+    "Description": "CYRILLIC CAPITAL LETTER BYELORUSSIAN-UKRAINIAN I",
+    "Character": "І",
+    "Decimal": 1030
+  },
+  {
+    "Entity": "yicy",
+    "Hex": "0457",
+    "Description": "CYRILLIC SMALL LETTER YI",
+    "Character": "ї",
+    "Decimal": 1111
+  },
+  {
+    "Entity": "YIcy",
+    "Hex": "0407",
+    "Description": "CYRILLIC CAPITAL LETTER YI",
+    "Character": "Ї",
+    "Decimal": 1031
+  },
+  {
+    "Entity": "jsercy",
+    "Hex": "0458",
+    "Description": "CYRILLIC SMALL LETTER JE",
+    "Character": "ј",
+    "Decimal": 1112
+  },
+  {
+    "Entity": "Jsercy",
+    "Hex": "0408",
+    "Description": "CYRILLIC CAPITAL LETTER JE",
+    "Character": "Ј",
+    "Decimal": 1032
+  },
+  {
+    "Entity": "ljcy",
+    "Hex": "0459",
+    "Description": "CYRILLIC SMALL LETTER LJE",
+    "Character": "љ",
+    "Decimal": 1113
+  },
+  {
+    "Entity": "LJcy",
+    "Hex": "0409",
+    "Description": "CYRILLIC CAPITAL LETTER LJE",
+    "Character": "Љ",
+    "Decimal": 1033
+  },
+  {
+    "Entity": "njcy",
+    "Hex": "045A",
+    "Description": "CYRILLIC SMALL LETTER NJE",
+    "Character": "њ",
+    "Decimal": 1114
+  },
+  {
+    "Entity": "NJcy",
+    "Hex": "040A",
+    "Description": "CYRILLIC CAPITAL LETTER NJE",
+    "Character": "Њ",
+    "Decimal": 1034
+  },
+  {
+    "Entity": "tshcy",
+    "Hex": "045B",
+    "Description": "CYRILLIC SMALL LETTER TSHE",
+    "Character": "ћ",
+    "Decimal": 1115
+  },
+  {
+    "Entity": "TSHcy",
+    "Hex": "040B",
+    "Description": "CYRILLIC CAPITAL LETTER TSHE",
+    "Character": "Ћ",
+    "Decimal": 1035
+  },
+  {
+    "Entity": "kjcy",
+    "Hex": "045C",
+    "Description": "CYRILLIC SMALL LETTER KJE",
+    "Character": "ќ",
+    "Decimal": 1116
+  },
+  {
+    "Entity": "KJcy",
+    "Hex": "040C",
+    "Description": "CYRILLIC CAPITAL LETTER KJE",
+    "Character": "Ќ",
+    "Decimal": 1036
+  },
+  {
+    "Entity": "ubrcy",
+    "Hex": "045E",
+    "Description": "CYRILLIC SMALL LETTER SHORT U",
+    "Character": "ў",
+    "Decimal": 1118
+  },
+  {
+    "Entity": "Ubrcy",
+    "Hex": "040E",
+    "Description": "CYRILLIC CAPITAL LETTER SHORT U",
+    "Character": "Ў",
+    "Decimal": 1038
+  },
+  {
+    "Entity": "dzcy",
+    "Hex": "045F",
+    "Description": "CYRILLIC SMALL LETTER DZHE",
+    "Character": "џ",
+    "Decimal": 1119
+  },
+  {
+    "Entity": "DZcy",
+    "Hex": "040F",
+    "Description": "CYRILLIC CAPITAL LETTER DZHE",
+    "Character": "Џ",
+    "Decimal": 1039
+  },
+  {
+    "Entity": "acute",
+    "Hex": "00B4",
+    "Description": "ACUTE ACCENT",
+    "Character": "´",
+    "Decimal": 180
+  },
+  {
+    "Entity": "breve",
+    "Hex": "02D8",
+    "Description": "BREVE",
+    "Character": "˘",
+    "Decimal": 728
+  },
+  {
+    "Entity": "caron",
+    "Hex": "02C7",
+    "Description": "CARON",
+    "Character": "ˇ",
+    "Decimal": 711
+  },
+  {
+    "Entity": "cedil",
+    "Hex": "00B8",
+    "Description": "CEDILLA",
+    "Character": "¸",
+    "Decimal": 184
+  },
+  {
+    "Entity": "circ",
+    "Hex": "005E",
+    "Description": "RING OPERATOR",
+    "Character": "^",
+    "Decimal": 94
+  },
+  {
+    "Entity": "dblac",
+    "Hex": "02DD",
+    "Description": "DOUBLE ACUTE ACCENT",
+    "Character": "˝",
+    "Decimal": 733
+  },
+  {
+    "Entity": "die",
+    "Hex": "00A8",
+    "Description": "Diaeresis",
+    "Character": "¨",
+    "Decimal": 168
+  },
+  {
+    "Entity": "dot",
+    "Hex": "02D9",
+    "Description": "DOT ABOVE",
+    "Character": "˙",
+    "Decimal": 729
+  },
+  {
+    "Entity": "grave",
+    "Hex": "0060",
+    "Description": "GRAVE ACCENT",
+    "Character": "`",
+    "Decimal": 96
+  },
+  {
+    "Entity": "macr",
+    "Hex": "00AF",
+    "Description": "MACRON",
+    "Character": "¯",
+    "Decimal": 175
+  },
+  {
+    "Entity": "ogon",
+    "Hex": "02DB",
+    "Description": "OGONEK",
+    "Character": "˛",
+    "Decimal": 731
+  },
+  {
+    "Entity": "ring",
+    "Hex": "02DA",
+    "Description": "RING ABOVE",
+    "Character": "˚",
+    "Decimal": 730
+  },
+  {
+    "Entity": "tilde",
+    "Hex": "02DC",
+    "Description": "TILDE",
+    "Character": "˜",
+    "Decimal": 732
+  },
+  {
+    "Entity": "agr",
+    "Hex": "03B1",
+    "Description": "Greek Small Letter Alpha",
+    "Character": "α",
+    "Decimal": 945
+  },
+  {
+    "Entity": "Agr",
+    "Hex": "0391",
+    "Description": "GREEK CAPITAL LETTER ALPHA",
+    "Character": "Α",
+    "Decimal": 913
+  },
+  {
+    "Entity": "bgr",
+    "Hex": "03B2",
+    "Description": "GREEK SMALL LETTER BETA",
+    "Character": "β",
+    "Decimal": 946
+  },
+  {
+    "Entity": "Bgr",
+    "Hex": "0392",
+    "Description": "GREEK CAPITAL LETTER BETA",
+    "Character": "Β",
+    "Decimal": 914
+  },
+  {
+    "Entity": "ggr",
+    "Hex": "03B3",
+    "Description": "GREEK SMALL LETTER GAMMA",
+    "Character": "γ",
+    "Decimal": 947
+  },
+  {
+    "Entity": "Ggr",
+    "Hex": "0393",
+    "Description": "GREEK CAPITAL LETTER GAMMA",
+    "Character": "Γ",
+    "Decimal": 915
+  },
+  {
+    "Entity": "dgr",
+    "Hex": "03B4",
+    "Description": "GREEK SMALL LETTER DELTA",
+    "Character": "δ",
+    "Decimal": 948
+  },
+  {
+    "Entity": "Dgr",
+    "Hex": "0394",
+    "Description": "GREEK CAPITAL LETTER DELTA",
+    "Character": "Δ",
+    "Decimal": 916
+  },
+  {
+    "Entity": "egr",
+    "Hex": "03B5",
+    "Description": "Greek Small Letter Epsilon",
+    "Character": "ε",
+    "Decimal": 949
+  },
+  {
+    "Entity": "Egr",
+    "Hex": "0395",
+    "Description": "GREEK CAPITAL LETTER EPSILON",
+    "Character": "Ε",
+    "Decimal": 917
+  },
+  {
+    "Entity": "zgr",
+    "Hex": "03B6",
+    "Description": "GREEK SMALL LETTER ZETA",
+    "Character": "ζ",
+    "Decimal": 950
+  },
+  {
+    "Entity": "Zgr",
+    "Hex": "0396",
+    "Description": "GREEK CAPITAL LETTER ZETA",
+    "Character": "Ζ",
+    "Decimal": 918
+  },
+  {
+    "Entity": "eegr",
+    "Hex": "03B7",
+    "Description": "GREEK SMALL LETTER ETA",
+    "Character": "η",
+    "Decimal": 951
+  },
+  {
+    "Entity": "EEgr",
+    "Hex": "0397",
+    "Description": "GREEK CAPITAL LETTER ETA",
+    "Character": "Η",
+    "Decimal": 919
+  },
+  {
+    "Entity": "thgr",
+    "Hex": "03B8",
+    "Description": "Greek Small Letter Theta",
+    "Character": "θ",
+    "Decimal": 952
+  },
+  {
+    "Entity": "THgr",
+    "Hex": "0398",
+    "Description": "GREEK CAPITAL LETTER THETA",
+    "Character": "Θ",
+    "Decimal": 920
+  },
+  {
+    "Entity": "igr",
+    "Hex": "03B9",
+    "Description": "GREEK SMALL LETTER IOTA",
+    "Character": "ι",
+    "Decimal": 953
+  },
+  {
+    "Entity": "Igr",
+    "Hex": "0399",
+    "Description": "GREEK CAPITAL LETTER IOTA",
+    "Character": "Ι",
+    "Decimal": 921
+  },
+  {
+    "Entity": "kgr",
+    "Hex": "03BA",
+    "Description": "GREEK SMALL LETTER KAPPA",
+    "Character": "κ",
+    "Decimal": 954
+  },
+  {
+    "Entity": "Kgr",
+    "Hex": "039A",
+    "Description": "GREEK CAPITAL LETTER KAPPA",
+    "Character": "Κ",
+    "Decimal": 922
+  },
+  {
+    "Entity": "lgr",
+    "Hex": "03BB",
+    "Description": "GREEK SMALL LETTER LAMDA",
+    "Character": "λ",
+    "Decimal": 955
+  },
+  {
+    "Entity": "Lgr",
+    "Hex": "039B",
+    "Description": "GREEK CAPITAL LETTER LAMDA",
+    "Character": "Λ",
+    "Decimal": 923
+  },
+  {
+    "Entity": "mgr",
+    "Hex": "03BC",
+    "Description": "GREEK SMALL LETTER MU",
+    "Character": "μ",
+    "Decimal": 956
+  },
+  {
+    "Entity": "Mgr",
+    "Hex": "039C",
+    "Description": "GREEK CAPITAL LETTER MU",
+    "Character": "Μ",
+    "Decimal": 924
+  },
+  {
+    "Entity": "ngr",
+    "Hex": "03BD",
+    "Description": "GREEK SMALL LETTER NU",
+    "Character": "ν",
+    "Decimal": 957
+  },
+  {
+    "Entity": "Ngr",
+    "Hex": "039D",
+    "Description": "GREEK CAPITAL LETTER NU",
+    "Character": "Ν",
+    "Decimal": 925
+  },
+  {
+    "Entity": "xgr",
+    "Hex": "03BE",
+    "Description": "GREEK SMALL LETTER XI",
+    "Character": "ξ",
+    "Decimal": 958
+  },
+  {
+    "Entity": "Xgr",
+    "Hex": "039E",
+    "Description": "GREEK CAPITAL LETTER XI",
+    "Character": "Ξ",
+    "Decimal": 926
+  },
+  {
+    "Entity": "ogr",
+    "Hex": "03BF",
+    "Description": "GREEK SMALL LETTER OMICRON",
+    "Character": "ο",
+    "Decimal": 959
+  },
+  {
+    "Entity": "Ogr",
+    "Hex": "039F",
+    "Description": "GREEK CAPITAL LETTER OMICRON",
+    "Character": "Ο",
+    "Decimal": 927
+  },
+  {
+    "Entity": "pgr",
+    "Hex": "03C0",
+    "Description": "GREEK SMALL LETTER PI",
+    "Character": "π",
+    "Decimal": 960
+  },
+  {
+    "Entity": "Pgr",
+    "Hex": "03A0",
+    "Description": "GREEK CAPITAL LETTER PI",
+    "Character": "Π",
+    "Decimal": 928
+  },
+  {
+    "Entity": "rgr",
+    "Hex": "03C1",
+    "Description": "GREEK SMALL LETTER RHO",
+    "Character": "ρ",
+    "Decimal": 961
+  },
+  {
+    "Entity": "Rgr",
+    "Hex": "03A1",
+    "Description": "GREEK CAPITAL LETTER RHO",
+    "Character": "Ρ",
+    "Decimal": 929
+  },
+  {
+    "Entity": "sgr",
+    "Hex": "03C3",
+    "Description": "GREEK SMALL LETTER SIGMA",
+    "Character": "σ",
+    "Decimal": 963
+  },
+  {
+    "Entity": "Sgr",
+    "Hex": "03A3",
+    "Description": "GREEK CAPITAL LETTER SIGMA",
+    "Character": "Σ",
+    "Decimal": 931
+  },
+  {
+    "Entity": "sfgr",
+    "Hex": "03C2",
+    "Description": "Greek Small Letter Final Sigma",
+    "Character": "ς",
+    "Decimal": 962
+  },
+  {
+    "Entity": "tgr",
+    "Hex": "03C4",
+    "Description": "GREEK SMALL LETTER TAU",
+    "Character": "τ",
+    "Decimal": 964
+  },
+  {
+    "Entity": "Tgr",
+    "Hex": "03A4",
+    "Description": "GREEK CAPITAL LETTER TAU",
+    "Character": "Τ",
+    "Decimal": 932
+  },
+  {
+    "Entity": "ugr",
+    "Hex": "03C5",
+    "Description": "GREEK SMALL LETTER UPSILON",
+    "Character": "υ",
+    "Decimal": 965
+  },
+  {
+    "Entity": "Ugr",
+    "Hex": "03A5",
+    "Description": "Greek Capital Letter Upsilon",
+    "Character": "Υ",
+    "Decimal": 933
+  },
+  {
+    "Entity": "phgr",
+    "Hex": "03C6",
+    "Description": "GREEK SMALL LETTER PHI",
+    "Character": "φ",
+    "Decimal": 966
+  },
+  {
+    "Entity": "PHgr",
+    "Hex": "03A6",
+    "Description": "GREEK CAPITAL LETTER PHI",
+    "Character": "Φ",
+    "Decimal": 934
+  },
+  {
+    "Entity": "khgr",
+    "Hex": "03C7",
+    "Description": "GREEK SMALL LETTER CHI",
+    "Character": "χ",
+    "Decimal": 967
+  },
+  {
+    "Entity": "KHgr",
+    "Hex": "03A7",
+    "Description": "GREEK CAPITAL LETTER CHI",
+    "Character": "Χ",
+    "Decimal": 935
+  },
+  {
+    "Entity": "psgr",
+    "Hex": "03C8",
+    "Description": "GREEK SMALL LETTER PSI",
+    "Character": "ψ",
+    "Decimal": 968
+  },
+  {
+    "Entity": "PSgr",
+    "Hex": "03A8",
+    "Description": "GREEK CAPITAL LETTER PSI",
+    "Character": "Ψ",
+    "Decimal": 936
+  },
+  {
+    "Entity": "ohgr",
+    "Hex": "03C9",
+    "Description": "GREEK SMALL LETTER OMEGA",
+    "Character": "ω",
+    "Decimal": 969
+  },
+  {
+    "Entity": "OHgr",
+    "Hex": "03A9",
+    "Description": "GREEK CAPITAL LETTER OMEGA",
+    "Character": "Ω",
+    "Decimal": 937
+  },
+  {
+    "Entity": "aacgr",
+    "Hex": "03AC",
+    "Description": "GREEK SMALL LETTER ALPHA WITH TONOS",
+    "Character": "ά",
+    "Decimal": 940
+  },
+  {
+    "Entity": "Aacgr",
+    "Hex": "0386",
+    "Description": "GREEK CAPITAL LETTER ALPHA WITH TONOS",
+    "Character": "Ά",
+    "Decimal": 902
+  },
+  {
+    "Entity": "eacgr",
+    "Hex": "03AD",
+    "Description": "GREEK SMALL LETTER EPSILON WITH TONOS",
+    "Character": "έ",
+    "Decimal": 941
+  },
+  {
+    "Entity": "Eacgr",
+    "Hex": "0388",
+    "Description": "GREEK CAPITAL LETTER EPSILON WITH TONOS",
+    "Character": "Έ",
+    "Decimal": 904
+  },
+  {
+    "Entity": "eeacgr",
+    "Hex": "03AE",
+    "Description": "GREEK SMALL LETTER ETA WITH TONOS",
+    "Character": "ή",
+    "Decimal": 942
+  },
+  {
+    "Entity": "EEacgr",
+    "Hex": "0389",
+    "Description": "GREEK CAPITAL LETTER ETA WITH TONOS",
+    "Character": "Ή",
+    "Decimal": 905
+  },
+  {
+    "Entity": "idigr",
+    "Hex": "03CA",
+    "Description": "GREEK SMALL LETTER IOTA WITH DIALYTIKA",
+    "Character": "ϊ",
+    "Decimal": 970
+  },
+  {
+    "Entity": "Idigr",
+    "Hex": "03AA",
+    "Description": "GREEK CAPITAL LETTER IOTA WITH DIALYTIKA",
+    "Character": "Ϊ",
+    "Decimal": 938
+  },
+  {
+    "Entity": "iacgr",
+    "Hex": "03AF",
+    "Description": "GREEK SMALL LETTER IOTA WITH TONOS",
+    "Character": "ί",
+    "Decimal": 943
+  },
+  {
+    "Entity": "Iacgr",
+    "Hex": "038A",
+    "Description": "GREEK CAPITAL LETTER IOTA WITH TONOS",
+    "Character": "Ί",
+    "Decimal": 906
+  },
+  {
+    "Entity": "idiagr",
+    "Hex": "0390",
+    "Description": "GREEK SMALL LETTER IOTA WITH DIALYTIKA AND TONOS",
+    "Character": "ΐ",
+    "Decimal": 912
+  },
+  {
+    "Entity": "oacgr",
+    "Hex": "03CC",
+    "Description": "GREEK SMALL LETTER OMICRON WITH TONOS",
+    "Character": "ό",
+    "Decimal": 972
+  },
+  {
+    "Entity": "Oacgr",
+    "Hex": "038C",
+    "Description": "GREEK CAPITAL LETTER OMICRON WITH TONOS",
+    "Character": "Ό",
+    "Decimal": 908
+  },
+  {
+    "Entity": "udigr",
+    "Hex": "03CB",
+    "Description": "GREEK SMALL LETTER UPSILON WITH DIALYTIKA",
+    "Character": "ϋ",
+    "Decimal": 971
+  },
+  {
+    "Entity": "Udigr",
+    "Hex": "03AB",
+    "Description": "GREEK CAPITAL LETTER UPSILON WITH DIALYTIKA",
+    "Character": "Ϋ",
+    "Decimal": 939
+  },
+  {
+    "Entity": "uacgr",
+    "Hex": "03CD",
+    "Description": "GREEK SMALL LETTER UPSILON WITH TONOS",
+    "Character": "ύ",
+    "Decimal": 973
+  },
+  {
+    "Entity": "Uacgr",
+    "Hex": "038E",
+    "Description": "GREEK CAPITAL LETTER UPSILON WITH TONOS",
+    "Character": "Ύ",
+    "Decimal": 910
+  },
+  {
+    "Entity": "udiagr",
+    "Hex": "03B0",
+    "Description": "GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND TONOS",
+    "Character": "ΰ",
+    "Decimal": 944
+  },
+  {
+    "Entity": "ohacgr",
+    "Hex": "03CE",
+    "Description": "GREEK SMALL LETTER OMEGA WITH TONOS",
+    "Character": "ώ",
+    "Decimal": 974
+  },
+  {
+    "Entity": "OHacgr",
+    "Hex": "038F",
+    "Description": "GREEK CAPITAL LETTER OMEGA WITH TONOS",
+    "Character": "Ώ",
+    "Decimal": 911
+  },
+  {
+    "Entity": "gammad",
+    "Hex": "03DC",
+    "Description": "GREEK LETTER DIGAMMA",
+    "Character": "Ϝ",
+    "Decimal": 988
+  },
+  {
+    "Entity": "epsi",
+    "Hex": "220A",
+    "Description": "Small Element Of",
+    "Character": "∊",
+    "Decimal": 8714
+  },
+  {
+    "Entity": "thetav",
+    "Hex": "03D1",
+    "Description": "Greek Theta Symbol",
+    "Character": "ϑ",
+    "Decimal": 977
+  },
+  {
+    "Entity": "kappav",
+    "Hex": "03F0",
+    "Description": "GREEK KAPPA SYMBOL",
+    "Character": "ϰ",
+    "Decimal": 1008
+  },
+  {
+    "Entity": "piv",
+    "Hex": "03D6",
+    "Description": "GREEK PI SYMBOL",
+    "Character": "ϖ",
+    "Decimal": 982
+  },
+  {
+    "Entity": "rhov",
+    "Hex": "03F1",
+    "Description": "GREEK RHO SYMBOL",
+    "Character": "ϱ",
+    "Decimal": 1009
+  },
+  {
+    "Entity": "Upsi",
+    "Hex": "03D2",
+    "Description": "Greek Upsilon with Hook Symbol",
+    "Character": "ϒ",
+    "Decimal": 978
+  },
+  {
+    "Entity": "phiv",
+    "Hex": "03D5",
+    "Description": "GREEK PHI SYMBOL",
+    "Character": "ϕ",
+    "Decimal": 981
+  },
+  {
+    "Entity": "aacute",
+    "Hex": "00E1",
+    "Description": "LATIN SMALL LETTER A WITH ACUTE",
+    "Character": "á",
+    "Decimal": 225
+  },
+  {
+    "Entity": "Aacute",
+    "Hex": "00C1",
+    "Description": "LATIN CAPITAL LETTER A WITH ACUTE",
+    "Character": "Á",
+    "Decimal": 193
+  },
+  {
+    "Entity": "acirc",
+    "Hex": "00E2",
+    "Description": "LATIN SMALL LETTER A WITH CIRCUMFLEX",
+    "Character": "â",
+    "Decimal": 226
+  },
+  {
+    "Entity": "Acirc",
+    "Hex": "00C2",
+    "Description": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX",
+    "Character": "Â",
+    "Decimal": 194
+  },
+  {
+    "Entity": "agrave",
+    "Hex": "00E0",
+    "Description": "LATIN SMALL LETTER A WITH GRAVE",
+    "Character": "à",
+    "Decimal": 224
+  },
+  {
+    "Entity": "Agrave",
+    "Hex": "00C0",
+    "Description": "LATIN CAPITAL LETTER A WITH GRAVE",
+    "Character": "À",
+    "Decimal": 192
+  },
+  {
+    "Entity": "aring",
+    "Hex": "00E5",
+    "Description": "LATIN SMALL LETTER A WITH RING ABOVE",
+    "Character": "å",
+    "Decimal": 229
+  },
+  {
+    "Entity": "Aring",
+    "Hex": "00C5",
+    "Description": "LATIN CAPITAL LETTER A WITH RING ABOVE",
+    "Character": "Å",
+    "Decimal": 197
+  },
+  {
+    "Entity": "atilde",
+    "Hex": "00E3",
+    "Description": "LATIN SMALL LETTER A WITH TILDE",
+    "Character": "ã",
+    "Decimal": 227
+  },
+  {
+    "Entity": "Atilde",
+    "Hex": "00C3",
+    "Description": "LATIN CAPITAL LETTER A WITH TILDE",
+    "Character": "Ã",
+    "Decimal": 195
+  },
+  {
+    "Entity": "auml",
+    "Hex": "00E4",
+    "Description": "LATIN SMALL LETTER A WITH DIAERESIS",
+    "Character": "ä",
+    "Decimal": 228
+  },
+  {
+    "Entity": "Auml",
+    "Hex": "00C4",
+    "Description": "LATIN CAPITAL LETTER A WITH DIAERESIS",
+    "Character": "Ä",
+    "Decimal": 196
+  },
+  {
+    "Entity": "aelig",
+    "Hex": "00E6",
+    "Description": "LATIN SMALL LETTER AE",
+    "Character": "æ",
+    "Decimal": 230
+  },
+  {
+    "Entity": "AElig",
+    "Hex": "00C6",
+    "Description": "LATIN CAPITAL LETTER AE",
+    "Character": "Æ",
+    "Decimal": 198
+  },
+  {
+    "Entity": "ccedil",
+    "Hex": "00E7",
+    "Description": "LATIN SMALL LETTER C WITH CEDILLA",
+    "Character": "ç",
+    "Decimal": 231
+  },
+  {
+    "Entity": "Ccedil",
+    "Hex": "00C7",
+    "Description": "LATIN CAPITAL LETTER C WITH CEDILLA",
+    "Character": "Ç",
+    "Decimal": 199
+  },
+  {
+    "Entity": "eth",
+    "Hex": "00F0",
+    "Description": "LATIN SMALL LETTER ETH",
+    "Character": "ð",
+    "Decimal": 240
+  },
+  {
+    "Entity": "ETH",
+    "Hex": "00D0",
+    "Description": "LATIN CAPITAL LETTER ETH",
+    "Character": "Ð",
+    "Decimal": 208
+  },
+  {
+    "Entity": "eacute",
+    "Hex": "00E9",
+    "Description": "LATIN SMALL LETTER E WITH ACUTE",
+    "Character": "é",
+    "Decimal": 233
+  },
+  {
+    "Entity": "Eacute",
+    "Hex": "00C9",
+    "Description": "LATIN CAPITAL LETTER E WITH ACUTE",
+    "Character": "É",
+    "Decimal": 201
+  },
+  {
+    "Entity": "ecirc",
+    "Hex": "00EA",
+    "Description": "LATIN SMALL LETTER E WITH CIRCUMFLEX",
+    "Character": "ê",
+    "Decimal": 234
+  },
+  {
+    "Entity": "Ecirc",
+    "Hex": "00CA",
+    "Description": "LATIN CAPITAL LETTER E WITH CIRCUMFLEX",
+    "Character": "Ê",
+    "Decimal": 202
+  },
+  {
+    "Entity": "egrave",
+    "Hex": "00E8",
+    "Description": "LATIN SMALL LETTER E WITH GRAVE",
+    "Character": "è",
+    "Decimal": 232
+  },
+  {
+    "Entity": "Egrave",
+    "Hex": "00C8",
+    "Description": "LATIN CAPITAL LETTER E WITH GRAVE",
+    "Character": "È",
+    "Decimal": 200
+  },
+  {
+    "Entity": "euml",
+    "Hex": "00EB",
+    "Description": "LATIN SMALL LETTER E WITH DIAERESIS",
+    "Character": "ë",
+    "Decimal": 235
+  },
+  {
+    "Entity": "Euml",
+    "Hex": "00CB",
+    "Description": "LATIN CAPITAL LETTER E WITH DIAERESIS",
+    "Character": "Ë",
+    "Decimal": 203
+  },
+  {
+    "Entity": "iacute",
+    "Hex": "00ED",
+    "Description": "LATIN SMALL LETTER I WITH ACUTE",
+    "Character": "í",
+    "Decimal": 237
+  },
+  {
+    "Entity": "Iacute",
+    "Hex": "00CD",
+    "Description": "LATIN CAPITAL LETTER I WITH ACUTE",
+    "Character": "Í",
+    "Decimal": 205
+  },
+  {
+    "Entity": "icirc",
+    "Hex": "00EE",
+    "Description": "LATIN SMALL LETTER I WITH CIRCUMFLEX",
+    "Character": "î",
+    "Decimal": 238
+  },
+  {
+    "Entity": "Icirc",
+    "Hex": "00CE",
+    "Description": "LATIN CAPITAL LETTER I WITH CIRCUMFLEX",
+    "Character": "Î",
+    "Decimal": 206
+  },
+  {
+    "Entity": "igrave",
+    "Hex": "00EC",
+    "Description": "LATIN SMALL LETTER I WITH GRAVE",
+    "Character": "ì",
+    "Decimal": 236
+  },
+  {
+    "Entity": "Igrave",
+    "Hex": "00CC",
+    "Description": "LATIN CAPITAL LETTER I WITH GRAVE",
+    "Character": "Ì",
+    "Decimal": 204
+  },
+  {
+    "Entity": "iuml",
+    "Hex": "00EF",
+    "Description": "LATIN SMALL LETTER I WITH DIAERESIS",
+    "Character": "ï",
+    "Decimal": 239
+  },
+  {
+    "Entity": "Iuml",
+    "Hex": "00CF",
+    "Description": "LATIN CAPITAL LETTER I WITH DIAERESIS",
+    "Character": "Ï",
+    "Decimal": 207
+  },
+  {
+    "Entity": "ntilde",
+    "Hex": "00F1",
+    "Description": "LATIN SMALL LETTER N WITH TILDE",
+    "Character": "ñ",
+    "Decimal": 241
+  },
+  {
+    "Entity": "Ntilde",
+    "Hex": "00D1",
+    "Description": "LATIN CAPITAL LETTER N WITH TILDE",
+    "Character": "Ñ",
+    "Decimal": 209
+  },
+  {
+    "Entity": "oacute",
+    "Hex": "00F3",
+    "Description": "LATIN SMALL LETTER O WITH ACUTE",
+    "Character": "ó",
+    "Decimal": 243
+  },
+  {
+    "Entity": "Oacute",
+    "Hex": "00D3",
+    "Description": "LATIN CAPITAL LETTER O WITH ACUTE",
+    "Character": "Ó",
+    "Decimal": 211
+  },
+  {
+    "Entity": "ocirc",
+    "Hex": "00F4",
+    "Description": "LATIN SMALL LETTER O WITH CIRCUMFLEX",
+    "Character": "ô",
+    "Decimal": 244
+  },
+  {
+    "Entity": "Ocirc",
+    "Hex": "00D4",
+    "Description": "LATIN CAPITAL LETTER O WITH CIRCUMFLEX",
+    "Character": "Ô",
+    "Decimal": 212
+  },
+  {
+    "Entity": "ograve",
+    "Hex": "00F2",
+    "Description": "LATIN SMALL LETTER O WITH GRAVE",
+    "Character": "ò",
+    "Decimal": 242
+  },
+  {
+    "Entity": "Ograve",
+    "Hex": "00D2",
+    "Description": "LATIN CAPITAL LETTER O WITH GRAVE",
+    "Character": "Ò",
+    "Decimal": 210
+  },
+  {
+    "Entity": "oslash",
+    "Hex": "00F8",
+    "Description": "LATIN SMALL LETTER O WITH STROKE",
+    "Character": "ø",
+    "Decimal": 248
+  },
+  {
+    "Entity": "Oslash",
+    "Hex": "00D8",
+    "Description": "LATIN CAPITAL LETTER O WITH STROKE",
+    "Character": "Ø",
+    "Decimal": 216
+  },
+  {
+    "Entity": "otilde",
+    "Hex": "00F5",
+    "Description": "LATIN SMALL LETTER O WITH TILDE",
+    "Character": "õ",
+    "Decimal": 245
+  },
+  {
+    "Entity": "Otilde",
+    "Hex": "00D5",
+    "Description": "LATIN CAPITAL LETTER O WITH TILDE",
+    "Character": "Õ",
+    "Decimal": 213
+  },
+  {
+    "Entity": "ouml",
+    "Hex": "00F6",
+    "Description": "LATIN SMALL LETTER O WITH DIAERESIS",
+    "Character": "ö",
+    "Decimal": 246
+  },
+  {
+    "Entity": "Ouml",
+    "Hex": "00D6",
+    "Description": "LATIN CAPITAL LETTER O WITH DIAERESIS",
+    "Character": "Ö",
+    "Decimal": 214
+  },
+  {
+    "Entity": "szlig",
+    "Hex": "00DF",
+    "Description": "LATIN SMALL LETTER SHARP S",
+    "Character": "ß",
+    "Decimal": 223
+  },
+  {
+    "Entity": "thorn",
+    "Hex": "00FE",
+    "Description": "LATIN SMALL LETTER THORN",
+    "Character": "þ",
+    "Decimal": 254
+  },
+  {
+    "Entity": "THORN",
+    "Hex": "00DE",
+    "Description": "LATIN CAPITAL LETTER THORN",
+    "Character": "Þ",
+    "Decimal": 222
+  },
+  {
+    "Entity": "uacute",
+    "Hex": "00FA",
+    "Description": "LATIN SMALL LETTER U WITH ACUTE",
+    "Character": "ú",
+    "Decimal": 250
+  },
+  {
+    "Entity": "Uacute",
+    "Hex": "00DA",
+    "Description": "LATIN CAPITAL LETTER U WITH ACUTE",
+    "Character": "Ú",
+    "Decimal": 218
+  },
+  {
+    "Entity": "ucirc",
+    "Hex": "00FB",
+    "Description": "LATIN SMALL LETTER U WITH CIRCUMFLEX",
+    "Character": "û",
+    "Decimal": 251
+  },
+  {
+    "Entity": "Ucirc",
+    "Hex": "00DB",
+    "Description": "LATIN CAPITAL LETTER U WITH CIRCUMFLEX",
+    "Character": "Û",
+    "Decimal": 219
+  },
+  {
+    "Entity": "ugrave",
+    "Hex": "00F9",
+    "Description": "LATIN SMALL LETTER U WITH GRAVE",
+    "Character": "ù",
+    "Decimal": 249
+  },
+  {
+    "Entity": "Ugrave",
+    "Hex": "00D9",
+    "Description": "LATIN CAPITAL LETTER U WITH GRAVE",
+    "Character": "Ù",
+    "Decimal": 217
+  },
+  {
+    "Entity": "uuml",
+    "Hex": "00FC",
+    "Description": "LATIN SMALL LETTER U WITH DIAERESIS",
+    "Character": "ü",
+    "Decimal": 252
+  },
+  {
+    "Entity": "Uuml",
+    "Hex": "00DC",
+    "Description": "LATIN CAPITAL LETTER U WITH DIAERESIS",
+    "Character": "Ü",
+    "Decimal": 220
+  },
+  {
+    "Entity": "yacute",
+    "Hex": "00FD",
+    "Description": "LATIN SMALL LETTER Y WITH ACUTE",
+    "Character": "ý",
+    "Decimal": 253
+  },
+  {
+    "Entity": "Yacute",
+    "Hex": "00DD",
+    "Description": "LATIN CAPITAL LETTER Y WITH ACUTE",
+    "Character": "Ý",
+    "Decimal": 221
+  },
+  {
+    "Entity": "yuml",
+    "Hex": "00FF",
+    "Description": "LATIN SMALL LETTER Y WITH DIAERESIS",
+    "Character": "ÿ",
+    "Decimal": 255
+  },
+  {
+    "Entity": "abreve",
+    "Hex": "0103",
+    "Description": "LATIN SMALL LETTER A WITH BREVE",
+    "Character": "ă",
+    "Decimal": 259
+  },
+  {
+    "Entity": "Abreve",
+    "Hex": "0102",
+    "Description": "LATIN CAPITAL LETTER A WITH BREVE",
+    "Character": "Ă",
+    "Decimal": 258
+  },
+  {
+    "Entity": "amacr",
+    "Hex": "0101",
+    "Description": "LATIN SMALL LETTER A WITH MACRON",
+    "Character": "ā",
+    "Decimal": 257
+  },
+  {
+    "Entity": "Amacr",
+    "Hex": "0100",
+    "Description": "LATIN CAPITAL LETTER A WITH MACRON",
+    "Character": "Ā",
+    "Decimal": 256
+  },
+  {
+    "Entity": "aogon",
+    "Hex": "0105",
+    "Description": "LATIN SMALL LETTER A WITH OGONEK",
+    "Character": "ą",
+    "Decimal": 261
+  },
+  {
+    "Entity": "Aogon",
+    "Hex": "0104",
+    "Description": "LATIN CAPITAL LETTER A WITH OGONEK",
+    "Character": "Ą",
+    "Decimal": 260
+  },
+  {
+    "Entity": "cacute",
+    "Hex": "0107",
+    "Description": "LATIN SMALL LETTER C WITH ACUTE",
+    "Character": "ć",
+    "Decimal": 263
+  },
+  {
+    "Entity": "Cacute",
+    "Hex": "0106",
+    "Description": "LATIN CAPITAL LETTER C WITH ACUTE",
+    "Character": "Ć",
+    "Decimal": 262
+  },
+  {
+    "Entity": "ccaron",
+    "Hex": "010D",
+    "Description": "LATIN SMALL LETTER C WITH CARON",
+    "Character": "č",
+    "Decimal": 269
+  },
+  {
+    "Entity": "Ccaron",
+    "Hex": "010C",
+    "Description": "LATIN CAPITAL LETTER C WITH CARON",
+    "Character": "Č",
+    "Decimal": 268
+  },
+  {
+    "Entity": "ccirc",
+    "Hex": "0109",
+    "Description": "LATIN SMALL LETTER C WITH CIRCUMFLEX",
+    "Character": "ĉ",
+    "Decimal": 265
+  },
+  {
+    "Entity": "Ccirc",
+    "Hex": "0108",
+    "Description": "LATIN CAPITAL LETTER C WITH CIRCUMFLEX",
+    "Character": "Ĉ",
+    "Decimal": 264
+  },
+  {
+    "Entity": "cdot",
+    "Hex": "010B",
+    "Description": "LATIN SMALL LETTER C WITH DOT ABOVE",
+    "Character": "ċ",
+    "Decimal": 267
+  },
+  {
+    "Entity": "Cdot",
+    "Hex": "010A",
+    "Description": "LATIN CAPITAL LETTER C WITH DOT ABOVE",
+    "Character": "Ċ",
+    "Decimal": 266
+  },
+  {
+    "Entity": "dcaron",
+    "Hex": "010F",
+    "Description": "LATIN SMALL LETTER D WITH CARON",
+    "Character": "ď",
+    "Decimal": 271
+  },
+  {
+    "Entity": "Dcaron",
+    "Hex": "010E",
+    "Description": "LATIN CAPITAL LETTER D WITH CARON",
+    "Character": "Ď",
+    "Decimal": 270
+  },
+  {
+    "Entity": "dstrok",
+    "Hex": "0111",
+    "Description": "LATIN SMALL LETTER D WITH STROKE",
+    "Character": "đ",
+    "Decimal": 273
+  },
+  {
+    "Entity": "Dstrok",
+    "Hex": "0110",
+    "Description": "LATIN CAPITAL LETTER D WITH STROKE",
+    "Character": "Đ",
+    "Decimal": 272
+  },
+  {
+    "Entity": "ecaron",
+    "Hex": "011B",
+    "Description": "LATIN SMALL LETTER E WITH CARON",
+    "Character": "ě",
+    "Decimal": 283
+  },
+  {
+    "Entity": "Ecaron",
+    "Hex": "011A",
+    "Description": "LATIN CAPITAL LETTER E WITH CARON",
+    "Character": "Ě",
+    "Decimal": 282
+  },
+  {
+    "Entity": "edot",
+    "Hex": "0117",
+    "Description": "LATIN SMALL LETTER E WITH DOT ABOVE",
+    "Character": "ė",
+    "Decimal": 279
+  },
+  {
+    "Entity": "Edot",
+    "Hex": "0116",
+    "Description": "LATIN CAPITAL LETTER E WITH DOT ABOVE",
+    "Character": "Ė",
+    "Decimal": 278
+  },
+  {
+    "Entity": "emacr",
+    "Hex": "0113",
+    "Description": "LATIN SMALL LETTER E WITH MACRON",
+    "Character": "ē",
+    "Decimal": 275
+  },
+  {
+    "Entity": "Emacr",
+    "Hex": "0112",
+    "Description": "LATIN CAPITAL LETTER E WITH MACRON",
+    "Character": "Ē",
+    "Decimal": 274
+  },
+  {
+    "Entity": "eogon",
+    "Hex": "0119",
+    "Description": "LATIN SMALL LETTER E WITH OGONEK",
+    "Character": "ę",
+    "Decimal": 281
+  },
+  {
+    "Entity": "Eogon",
+    "Hex": "0118",
+    "Description": "LATIN CAPITAL LETTER E WITH OGONEK",
+    "Character": "Ę",
+    "Decimal": 280
+  },
+  {
+    "Entity": "gacute",
+    "Hex": "01F5",
+    "Description": "LATIN SMALL LETTER G WITH ACUTE",
+    "Character": "ǵ",
+    "Decimal": 501
+  },
+  {
+    "Entity": "gbreve",
+    "Hex": "011F",
+    "Description": "LATIN SMALL LETTER G WITH BREVE",
+    "Character": "ğ",
+    "Decimal": 287
+  },
+  {
+    "Entity": "Gbreve",
+    "Hex": "011E",
+    "Description": "LATIN CAPITAL LETTER G WITH BREVE",
+    "Character": "Ğ",
+    "Decimal": 286
+  },
+  {
+    "Entity": "Gcedil",
+    "Hex": "0122",
+    "Description": "LATIN CAPITAL LETTER G WITH CEDILLA",
+    "Character": "Ģ",
+    "Decimal": 290
+  },
+  {
+    "Entity": "gcirc",
+    "Hex": "011D",
+    "Description": "LATIN SMALL LETTER G WITH CIRCUMFLEX",
+    "Character": "ĝ",
+    "Decimal": 285
+  },
+  {
+    "Entity": "Gcirc",
+    "Hex": "011C",
+    "Description": "LATIN CAPITAL LETTER G WITH CIRCUMFLEX",
+    "Character": "Ĝ",
+    "Decimal": 284
+  },
+  {
+    "Entity": "gdot",
+    "Hex": "0121",
+    "Description": "LATIN SMALL LETTER G WITH DOT ABOVE",
+    "Character": "ġ",
+    "Decimal": 289
+  },
+  {
+    "Entity": "Gdot",
+    "Hex": "0120",
+    "Description": "LATIN CAPITAL LETTER G WITH DOT ABOVE",
+    "Character": "Ġ",
+    "Decimal": 288
+  },
+  {
+    "Entity": "hcirc",
+    "Hex": "0125",
+    "Description": "LATIN SMALL LETTER H WITH CIRCUMFLEX",
+    "Character": "ĥ",
+    "Decimal": 293
+  },
+  {
+    "Entity": "Hcirc",
+    "Hex": "0124",
+    "Description": "LATIN CAPITAL LETTER H WITH CIRCUMFLEX",
+    "Character": "Ĥ",
+    "Decimal": 292
+  },
+  {
+    "Entity": "hstrok",
+    "Hex": "0127",
+    "Description": "LATIN SMALL LETTER H WITH STROKE",
+    "Character": "ħ",
+    "Decimal": 295
+  },
+  {
+    "Entity": "Hstrok",
+    "Hex": "0126",
+    "Description": "LATIN CAPITAL LETTER H WITH STROKE",
+    "Character": "Ħ",
+    "Decimal": 294
+  },
+  {
+    "Entity": "Idot",
+    "Hex": "0130",
+    "Description": "LATIN CAPITAL LETTER I WITH DOT ABOVE",
+    "Character": "İ",
+    "Decimal": 304
+  },
+  {
+    "Entity": "Imacr",
+    "Hex": "012A",
+    "Description": "LATIN CAPITAL LETTER I WITH MACRON",
+    "Character": "Ī",
+    "Decimal": 298
+  },
+  {
+    "Entity": "imacr",
+    "Hex": "012B",
+    "Description": "LATIN SMALL LETTER I WITH MACRON",
+    "Character": "ī",
+    "Decimal": 299
+  },
+  {
+    "Entity": "ijlig",
+    "Hex": "0133",
+    "Description": "LATIN SMALL LIGATURE IJ",
+    "Character": "ĳ",
+    "Decimal": 307
+  },
+  {
+    "Entity": "IJlig",
+    "Hex": "0132",
+    "Description": "LATIN CAPITAL LIGATURE IJ",
+    "Character": "Ĳ",
+    "Decimal": 306
+  },
+  {
+    "Entity": "iogon",
+    "Hex": "012F",
+    "Description": "LATIN SMALL LETTER I WITH OGONEK",
+    "Character": "į",
+    "Decimal": 303
+  },
+  {
+    "Entity": "Iogon",
+    "Hex": "012E",
+    "Description": "LATIN CAPITAL LETTER I WITH OGONEK",
+    "Character": "Į",
+    "Decimal": 302
+  },
+  {
+    "Entity": "itilde",
+    "Hex": "0129",
+    "Description": "LATIN SMALL LETTER I WITH TILDE",
+    "Character": "ĩ",
+    "Decimal": 297
+  },
+  {
+    "Entity": "Itilde",
+    "Hex": "0128",
+    "Description": "LATIN CAPITAL LETTER I WITH TILDE",
+    "Character": "Ĩ",
+    "Decimal": 296
+  },
+  {
+    "Entity": "jcirc",
+    "Hex": "0135",
+    "Description": "LATIN SMALL LETTER J WITH CIRCUMFLEX",
+    "Character": "ĵ",
+    "Decimal": 309
+  },
+  {
+    "Entity": "Jcirc",
+    "Hex": "0134",
+    "Description": "LATIN CAPITAL LETTER J WITH CIRCUMFLEX",
+    "Character": "Ĵ",
+    "Decimal": 308
+  },
+  {
+    "Entity": "kcedil",
+    "Hex": "0137",
+    "Description": "LATIN SMALL LETTER K WITH CEDILLA",
+    "Character": "ķ",
+    "Decimal": 311
+  },
+  {
+    "Entity": "Kcedil",
+    "Hex": "0136",
+    "Description": "LATIN CAPITAL LETTER K WITH CEDILLA",
+    "Character": "Ķ",
+    "Decimal": 310
+  },
+  {
+    "Entity": "kgreen",
+    "Hex": "0138",
+    "Description": "LATIN SMALL LETTER KRA",
+    "Character": "ĸ",
+    "Decimal": 312
+  },
+  {
+    "Entity": "lacute",
+    "Hex": "013A",
+    "Description": "LATIN SMALL LETTER L WITH ACUTE",
+    "Character": "ĺ",
+    "Decimal": 314
+  },
+  {
+    "Entity": "Lacute",
+    "Hex": "0139",
+    "Description": "LATIN CAPITAL LETTER L WITH ACUTE",
+    "Character": "Ĺ",
+    "Decimal": 313
+  },
+  {
+    "Entity": "lcaron",
+    "Hex": "013E",
+    "Description": "LATIN SMALL LETTER L WITH CARON",
+    "Character": "ľ",
+    "Decimal": 318
+  },
+  {
+    "Entity": "Lcaron",
+    "Hex": "013D",
+    "Description": "LATIN CAPITAL LETTER L WITH CARON",
+    "Character": "Ľ",
+    "Decimal": 317
+  },
+  {
+    "Entity": "lcedil",
+    "Hex": "013C",
+    "Description": "LATIN SMALL LETTER L WITH CEDILLA",
+    "Character": "ļ",
+    "Decimal": 316
+  },
+  {
+    "Entity": "Lcedil",
+    "Hex": "013B",
+    "Description": "LATIN CAPITAL LETTER L WITH CEDILLA",
+    "Character": "Ļ",
+    "Decimal": 315
+  },
+  {
+    "Entity": "lmidot",
+    "Hex": "0140",
+    "Description": "LATIN SMALL LETTER L WITH MIDDLE DOT",
+    "Character": "ŀ",
+    "Decimal": 320
+  },
+  {
+    "Entity": "Lmidot",
+    "Hex": "013F",
+    "Description": "LATIN CAPITAL LETTER L WITH MIDDLE DOT",
+    "Character": "Ŀ",
+    "Decimal": 319
+  },
+  {
+    "Entity": "lstrok",
+    "Hex": "0142",
+    "Description": "LATIN SMALL LETTER L WITH STROKE",
+    "Character": "ł",
+    "Decimal": 322
+  },
+  {
+    "Entity": "Lstrok",
+    "Hex": "0141",
+    "Description": "LATIN CAPITAL LETTER L WITH STROKE",
+    "Character": "Ł",
+    "Decimal": 321
+  },
+  {
+    "Entity": "nacute",
+    "Hex": "0144",
+    "Description": "LATIN SMALL LETTER N WITH ACUTE",
+    "Character": "ń",
+    "Decimal": 324
+  },
+  {
+    "Entity": "Nacute",
+    "Hex": "0143",
+    "Description": "LATIN CAPITAL LETTER N WITH ACUTE",
+    "Character": "Ń",
+    "Decimal": 323
+  },
+  {
+    "Entity": "eng",
+    "Hex": "014B",
+    "Description": "LATIN SMALL LETTER ENG",
+    "Character": "ŋ",
+    "Decimal": 331
+  },
+  {
+    "Entity": "ENG",
+    "Hex": "014A",
+    "Description": "LATIN CAPITAL LETTER ENG",
+    "Character": "Ŋ",
+    "Decimal": 330
+  },
+  {
+    "Entity": "napos",
+    "Hex": "0149",
+    "Description": "LATIN SMALL LETTER N PRECEDED BY APOSTROPHE",
+    "Character": "ŉ",
+    "Decimal": 329
+  },
+  {
+    "Entity": "ncaron",
+    "Hex": "0148",
+    "Description": "LATIN SMALL LETTER N WITH CARON",
+    "Character": "ň",
+    "Decimal": 328
+  },
+  {
+    "Entity": "Ncaron",
+    "Hex": "0147",
+    "Description": "LATIN CAPITAL LETTER N WITH CARON",
+    "Character": "Ň",
+    "Decimal": 327
+  },
+  {
+    "Entity": "ncedil",
+    "Hex": "0146",
+    "Description": "LATIN SMALL LETTER N WITH CEDILLA",
+    "Character": "ņ",
+    "Decimal": 326
+  },
+  {
+    "Entity": "Ncedil",
+    "Hex": "0145",
+    "Description": "LATIN CAPITAL LETTER N WITH CEDILLA",
+    "Character": "Ņ",
+    "Decimal": 325
+  },
+  {
+    "Entity": "odblac",
+    "Hex": "0151",
+    "Description": "LATIN SMALL LETTER O WITH DOUBLE ACUTE",
+    "Character": "ő",
+    "Decimal": 337
+  },
+  {
+    "Entity": "Odblac",
+    "Hex": "0150",
+    "Description": "LATIN CAPITAL LETTER O WITH DOUBLE ACUTE",
+    "Character": "Ő",
+    "Decimal": 336
+  },
+  {
+    "Entity": "Omacr",
+    "Hex": "014C",
+    "Description": "LATIN CAPITAL LETTER O WITH MACRON",
+    "Character": "Ō",
+    "Decimal": 332
+  },
+  {
+    "Entity": "omacr",
+    "Hex": "014D",
+    "Description": "LATIN SMALL LETTER O WITH MACRON",
+    "Character": "ō",
+    "Decimal": 333
+  },
+  {
+    "Entity": "oelig",
+    "Hex": "0153",
+    "Description": "LATIN SMALL LIGATURE OE",
+    "Character": "œ",
+    "Decimal": 339
+  },
+  {
+    "Entity": "OElig",
+    "Hex": "0152",
+    "Description": "LATIN CAPITAL LIGATURE OE",
+    "Character": "Œ",
+    "Decimal": 338
+  },
+  {
+    "Entity": "racute",
+    "Hex": "0155",
+    "Description": "LATIN SMALL LETTER R WITH ACUTE",
+    "Character": "ŕ",
+    "Decimal": 341
+  },
+  {
+    "Entity": "Racute",
+    "Hex": "0154",
+    "Description": "LATIN CAPITAL LETTER R WITH ACUTE",
+    "Character": "Ŕ",
+    "Decimal": 340
+  },
+  {
+    "Entity": "rcaron",
+    "Hex": "0159",
+    "Description": "LATIN SMALL LETTER R WITH CARON",
+    "Character": "ř",
+    "Decimal": 345
+  },
+  {
+    "Entity": "Rcaron",
+    "Hex": "0158",
+    "Description": "LATIN CAPITAL LETTER R WITH CARON",
+    "Character": "Ř",
+    "Decimal": 344
+  },
+  {
+    "Entity": "rcedil",
+    "Hex": "0157",
+    "Description": "LATIN SMALL LETTER R WITH CEDILLA",
+    "Character": "ŗ",
+    "Decimal": 343
+  },
+  {
+    "Entity": "Rcedil",
+    "Hex": "0156",
+    "Description": "LATIN CAPITAL LETTER R WITH CEDILLA",
+    "Character": "Ŗ",
+    "Decimal": 342
+  },
+  {
+    "Entity": "sacute",
+    "Hex": "015B",
+    "Description": "LATIN SMALL LETTER S WITH ACUTE",
+    "Character": "ś",
+    "Decimal": 347
+  },
+  {
+    "Entity": "Sacute",
+    "Hex": "015A",
+    "Description": "LATIN CAPITAL LETTER S WITH ACUTE",
+    "Character": "Ś",
+    "Decimal": 346
+  },
+  {
+    "Entity": "scaron",
+    "Hex": "0161",
+    "Description": "LATIN SMALL LETTER S WITH CARON",
+    "Character": "š",
+    "Decimal": 353
+  },
+  {
+    "Entity": "Scaron",
+    "Hex": "0160",
+    "Description": "LATIN CAPITAL LETTER S WITH CARON",
+    "Character": "Š",
+    "Decimal": 352
+  },
+  {
+    "Entity": "scedil",
+    "Hex": "015F",
+    "Description": "LATIN SMALL LETTER S WITH CEDILLA",
+    "Character": "ş",
+    "Decimal": 351
+  },
+  {
+    "Entity": "Scedil",
+    "Hex": "015E",
+    "Description": "LATIN CAPITAL LETTER S WITH CEDILLA",
+    "Character": "Ş",
+    "Decimal": 350
+  },
+  {
+    "Entity": "scirc",
+    "Hex": "015D",
+    "Description": "LATIN SMALL LETTER S WITH CIRCUMFLEX",
+    "Character": "ŝ",
+    "Decimal": 349
+  },
+  {
+    "Entity": "Scirc",
+    "Hex": "015C",
+    "Description": "LATIN CAPITAL LETTER S WITH CIRCUMFLEX",
+    "Character": "Ŝ",
+    "Decimal": 348
+  },
+  {
+    "Entity": "tcaron",
+    "Hex": "0165",
+    "Description": "LATIN SMALL LETTER T WITH CARON",
+    "Character": "ť",
+    "Decimal": 357
+  },
+  {
+    "Entity": "Tcaron",
+    "Hex": "0164",
+    "Description": "LATIN CAPITAL LETTER T WITH CARON",
+    "Character": "Ť",
+    "Decimal": 356
+  },
+  {
+    "Entity": "tcedil",
+    "Hex": "0163",
+    "Description": "LATIN SMALL LETTER T WITH CEDILLA",
+    "Character": "ţ",
+    "Decimal": 355
+  },
+  {
+    "Entity": "Tcedil",
+    "Hex": "0162",
+    "Description": "LATIN CAPITAL LETTER T WITH CEDILLA",
+    "Character": "Ţ",
+    "Decimal": 354
+  },
+  {
+    "Entity": "tstrok",
+    "Hex": "0167",
+    "Description": "LATIN SMALL LETTER T WITH STROKE",
+    "Character": "ŧ",
+    "Decimal": 359
+  },
+  {
+    "Entity": "Tstrok",
+    "Hex": "0166",
+    "Description": "LATIN CAPITAL LETTER T WITH STROKE",
+    "Character": "Ŧ",
+    "Decimal": 358
+  },
+  {
+    "Entity": "ubreve",
+    "Hex": "016D",
+    "Description": "LATIN SMALL LETTER U WITH BREVE",
+    "Character": "ŭ",
+    "Decimal": 365
+  },
+  {
+    "Entity": "Ubreve",
+    "Hex": "016C",
+    "Description": "LATIN CAPITAL LETTER U WITH BREVE",
+    "Character": "Ŭ",
+    "Decimal": 364
+  },
+  {
+    "Entity": "udblac",
+    "Hex": "0171",
+    "Description": "LATIN SMALL LETTER U WITH DOUBLE ACUTE",
+    "Character": "ű",
+    "Decimal": 369
+  },
+  {
+    "Entity": "Udblac",
+    "Hex": "0170",
+    "Description": "LATIN CAPITAL LETTER U WITH DOUBLE ACUTE",
+    "Character": "Ű",
+    "Decimal": 368
+  },
+  {
+    "Entity": "umacr",
+    "Hex": "016B",
+    "Description": "LATIN SMALL LETTER U WITH MACRON",
+    "Character": "ū",
+    "Decimal": 363
+  },
+  {
+    "Entity": "Umacr",
+    "Hex": "016A",
+    "Description": "LATIN CAPITAL LETTER U WITH MACRON",
+    "Character": "Ū",
+    "Decimal": 362
+  },
+  {
+    "Entity": "uogon",
+    "Hex": "0173",
+    "Description": "LATIN SMALL LETTER U WITH OGONEK",
+    "Character": "ų",
+    "Decimal": 371
+  },
+  {
+    "Entity": "Uogon",
+    "Hex": "0172",
+    "Description": "LATIN CAPITAL LETTER U WITH OGONEK",
+    "Character": "Ų",
+    "Decimal": 370
+  },
+  {
+    "Entity": "uring",
+    "Hex": "016F",
+    "Description": "LATIN SMALL LETTER U WITH RING ABOVE",
+    "Character": "ů",
+    "Decimal": 367
+  },
+  {
+    "Entity": "Uring",
+    "Hex": "016E",
+    "Description": "LATIN CAPITAL LETTER U WITH RING ABOVE",
+    "Character": "Ů",
+    "Decimal": 366
+  },
+  {
+    "Entity": "utilde",
+    "Hex": "0169",
+    "Description": "LATIN SMALL LETTER U WITH TILDE",
+    "Character": "ũ",
+    "Decimal": 361
+  },
+  {
+    "Entity": "Utilde",
+    "Hex": "0168",
+    "Description": "LATIN CAPITAL LETTER U WITH TILDE",
+    "Character": "Ũ",
+    "Decimal": 360
+  },
+  {
+    "Entity": "wcirc",
+    "Hex": "0175",
+    "Description": "LATIN SMALL LETTER W WITH CIRCUMFLEX",
+    "Character": "ŵ",
+    "Decimal": 373
+  },
+  {
+    "Entity": "Wcirc",
+    "Hex": "0174",
+    "Description": "LATIN CAPITAL LETTER W WITH CIRCUMFLEX",
+    "Character": "Ŵ",
+    "Decimal": 372
+  },
+  {
+    "Entity": "ycirc",
+    "Hex": "0177",
+    "Description": "LATIN SMALL LETTER Y WITH CIRCUMFLEX",
+    "Character": "ŷ",
+    "Decimal": 375
+  },
+  {
+    "Entity": "Ycirc",
+    "Hex": "0176",
+    "Description": "LATIN CAPITAL LETTER Y WITH CIRCUMFLEX",
+    "Character": "Ŷ",
+    "Decimal": 374
+  },
+  {
+    "Entity": "Yuml",
+    "Hex": "0178",
+    "Description": "LATIN CAPITAL LETTER Y WITH DIAERESIS",
+    "Character": "Ÿ",
+    "Decimal": 376
+  },
+  {
+    "Entity": "zacute",
+    "Hex": "017A",
+    "Description": "LATIN SMALL LETTER Z WITH ACUTE",
+    "Character": "ź",
+    "Decimal": 378
+  },
+  {
+    "Entity": "Zacute",
+    "Hex": "0179",
+    "Description": "LATIN CAPITAL LETTER Z WITH ACUTE",
+    "Character": "Ź",
+    "Decimal": 377
+  },
+  {
+    "Entity": "zcaron",
+    "Hex": "017E",
+    "Description": "LATIN SMALL LETTER Z WITH CARON",
+    "Character": "ž",
+    "Decimal": 382
+  },
+  {
+    "Entity": "Zcaron",
+    "Hex": "017D",
+    "Description": "LATIN CAPITAL LETTER Z WITH CARON",
+    "Character": "Ž",
+    "Decimal": 381
+  },
+  {
+    "Entity": "zdot",
+    "Hex": "017C",
+    "Description": "LATIN SMALL LETTER Z WITH DOT ABOVE",
+    "Character": "ż",
+    "Decimal": 380
+  },
+  {
+    "Entity": "Zdot",
+    "Hex": "017B",
+    "Description": "LATIN CAPITAL LETTER Z WITH DOT ABOVE",
+    "Character": "Ż",
+    "Decimal": 379
+  },
+  {
+    "Entity": "half",
+    "Hex": "00BD",
+    "Description": "VULGAR FRACTION ONE HALF",
+    "Character": "½",
+    "Decimal": 189
+  },
+  {
+    "Entity": "frac14",
+    "Hex": "00BC",
+    "Description": "VULGAR FRACTION ONE QUARTER",
+    "Character": "¼",
+    "Decimal": 188
+  },
+  {
+    "Entity": "frac34",
+    "Hex": "00BE",
+    "Description": "VULGAR FRACTION THREE QUARTERS",
+    "Character": "¾",
+    "Decimal": 190
+  },
+  {
+    "Entity": "frac18",
+    "Hex": "215B",
+    "Description": "Vulgar Fraction One Eighth",
+    "Character": "⅛",
+    "Decimal": 8539
+  },
+  {
+    "Entity": "frac38",
+    "Hex": "215C",
+    "Description": "Vulgar Fraction Three Eighths",
+    "Character": "⅜",
+    "Decimal": 8540
+  },
+  {
+    "Entity": "frac58",
+    "Hex": "215D",
+    "Description": "Vulgar Fraction Five Eighths",
+    "Character": "⅝",
+    "Decimal": 8541
+  },
+  {
+    "Entity": "frac78",
+    "Hex": "215E",
+    "Description": "Vulgar Fraction Seven Eighths",
+    "Character": "⅞",
+    "Decimal": 8542
+  },
+  {
+    "Entity": "sup1",
+    "Hex": "00B9",
+    "Description": "SUPERSCRIPT ONE",
+    "Character": "¹",
+    "Decimal": 185
+  },
+  {
+    "Entity": "sup2",
+    "Hex": "00B2",
+    "Description": "SUPERSCRIPT TWO",
+    "Character": "²",
+    "Decimal": 178
+  },
+  {
+    "Entity": "sup3",
+    "Hex": "00B3",
+    "Description": "SUPERSCRIPT THREE",
+    "Character": "³",
+    "Decimal": 179
+  },
+  {
+    "Entity": "plus",
+    "Hex": "002B",
+    "Description": "PLUS SIGN",
+    "Character": "+",
+    "Decimal": 43
+  },
+  {
+    "Entity": "plusmn",
+    "Hex": "00B1",
+    "Description": "PLUS-MINUS SIGN",
+    "Character": "±",
+    "Decimal": 177
+  },
+  {
+    "Entity": "lt",
+    "Hex": "60",
+    "Description": "LESS-THAN SIGN",
+    "Character": "`",
+    "Decimal": 96
+  },
+  {
+    "Entity": "equals",
+    "Hex": "003D",
+    "Description": "EQUALS SIGN",
+    "Character": "=",
+    "Decimal": 61
+  },
+  {
+    "Entity": "gt",
+    "Hex": "003E",
+    "Description": "GREATER-THAN SIGN",
+    "Character": ">",
+    "Decimal": 62
+  },
+  {
+    "Entity": "divide",
+    "Hex": "00F7",
+    "Description": "DIVISION SIGN",
+    "Character": "÷",
+    "Decimal": 247
+  },
+  {
+    "Entity": "times",
+    "Hex": "00D7",
+    "Description": "MULTIPLICATION SIGN",
+    "Character": "×",
+    "Decimal": 215
+  },
+  {
+    "Entity": "curren",
+    "Hex": "00A4",
+    "Description": "CURRENCY SIGN",
+    "Character": "¤",
+    "Decimal": 164
+  },
+  {
+    "Entity": "pound",
+    "Hex": "00A3",
+    "Description": "POUND SIGN",
+    "Character": "£",
+    "Decimal": 163
+  },
+  {
+    "Entity": "dollar",
+    "Hex": "0024",
+    "Description": "DOLLAR SIGN",
+    "Character": "$",
+    "Decimal": 36
+  },
+  {
+    "Entity": "cent",
+    "Hex": "00A2",
+    "Description": "CENT SIGN",
+    "Character": "¢",
+    "Decimal": 162
+  },
+  {
+    "Entity": "yen",
+    "Hex": "00A5",
+    "Description": "YEN SIGN",
+    "Character": "¥",
+    "Decimal": 165
+  },
+  {
+    "Entity": "num",
+    "Hex": "0023",
+    "Description": "NUMBER SIGN",
+    "Character": "#",
+    "Decimal": 35
+  },
+  {
+    "Entity": "percnt",
+    "Hex": "0025",
+    "Description": "PERCENT SIGN",
+    "Character": "%",
+    "Decimal": 37
+  },
+  {
+    "Entity": "amp",
+    "Hex": "38",
+    "Description": "AMPERSAND",
+    "Character": "8",
+    "Decimal": 56
+  },
+  {
+    "Entity": "ast",
+    "Hex": "002A",
+    "Description": "ASTERISK",
+    "Character": "*",
+    "Decimal": 42
+  },
+  {
+    "Entity": "commat",
+    "Hex": "0040",
+    "Description": "COMMERCIAL AT",
+    "Character": "@",
+    "Decimal": 64
+  },
+  {
+    "Entity": "lsqb",
+    "Hex": "005B",
+    "Description": "LEFT SQUARE BRACKET",
+    "Character": "[",
+    "Decimal": 91
+  },
+  {
+    "Entity": "bsol",
+    "Hex": "005C",
+    "Description": "REVERSE SOLIDUS",
+    "Character": "\\",
+    "Decimal": 92
+  },
+  {
+    "Entity": "rsqb",
+    "Hex": "005D",
+    "Description": "RIGHT SQUARE BRACKET",
+    "Character": "]",
+    "Decimal": 93
+  },
+  {
+    "Entity": "lcub",
+    "Hex": "007B",
+    "Description": "LEFT CURLY BRACKET",
+    "Character": "{",
+    "Decimal": 123
+  },
+  {
+    "Entity": "horbar",
+    "Hex": "2015",
+    "Description": "HORIZONTAL BAR",
+    "Character": "―",
+    "Decimal": 8213
+  },
+  {
+    "Entity": "verbar",
+    "Hex": "007C",
+    "Description": "VERTICAL LINE",
+    "Character": "|",
+    "Decimal": 124
+  },
+  {
+    "Entity": "rcub",
+    "Hex": "007D",
+    "Description": "RIGHT CURLY BRACKET",
+    "Character": "}",
+    "Decimal": 125
+  },
+  {
+    "Entity": "micro",
+    "Hex": "00B5",
+    "Description": "MICRO SIGN",
+    "Character": "µ",
+    "Decimal": 181
+  },
+  {
+    "Entity": "ohm",
+    "Hex": "2126",
+    "Description": "OHM SIGN",
+    "Character": "Ω",
+    "Decimal": 8486
+  },
+  {
+    "Entity": "deg",
+    "Hex": "00B0",
+    "Description": "DEGREE SIGN",
+    "Character": "°",
+    "Decimal": 176
+  },
+  {
+    "Entity": "ordm",
+    "Hex": "00BA",
+    "Description": "MASCULINE ORDINAL INDICATOR",
+    "Character": "º",
+    "Decimal": 186
+  },
+  {
+    "Entity": "ordf",
+    "Hex": "00AA",
+    "Description": "FEMININE ORDINAL INDICATOR",
+    "Character": "ª",
+    "Decimal": 170
+  },
+  {
+    "Entity": "sect",
+    "Hex": "00A7",
+    "Description": "SECTION SIGN",
+    "Character": "§",
+    "Decimal": 167
+  },
+  {
+    "Entity": "para",
+    "Hex": "00B6",
+    "Description": "PILCROW SIGN",
+    "Character": "¶",
+    "Decimal": 182
+  },
+  {
+    "Entity": "middot",
+    "Hex": "00B7",
+    "Description": "MIDDLE DOT",
+    "Character": "·",
+    "Decimal": 183
+  },
+  {
+    "Entity": "larr",
+    "Hex": "2190",
+    "Description": "LEFTWARDS ARROW",
+    "Character": "←",
+    "Decimal": 8592
+  },
+  {
+    "Entity": "rarr",
+    "Hex": "2192",
+    "Description": "RIGHTWARDS ARROW",
+    "Character": "→",
+    "Decimal": 8594
+  },
+  {
+    "Entity": "uarr",
+    "Hex": "2191",
+    "Description": "UPWARDS ARROW",
+    "Character": "↑",
+    "Decimal": 8593
+  },
+  {
+    "Entity": "darr",
+    "Hex": "2193",
+    "Description": "DOWNWARDS ARROW",
+    "Character": "↓",
+    "Decimal": 8595
+  },
+  {
+    "Entity": "copy",
+    "Hex": "00A9",
+    "Description": "COPYRIGHT SIGN",
+    "Character": "©",
+    "Decimal": 169
+  },
+  {
+    "Entity": "reg",
+    "Hex": "00AE",
+    "Description": "REG TRADE MARK SIGN",
+    "Character": "®",
+    "Decimal": 174
+  },
+  {
+    "Entity": "trade",
+    "Hex": "2122",
+    "Description": "TRADE MARK SIGN",
+    "Character": "™",
+    "Decimal": 8482
+  },
+  {
+    "Entity": "brvbar",
+    "Hex": "00A6",
+    "Description": "BROKEN BAR",
+    "Character": "¦",
+    "Decimal": 166
+  },
+  {
+    "Entity": "not",
+    "Hex": "00AC",
+    "Description": "NOT SIGN",
+    "Character": "¬",
+    "Decimal": 172
+  },
+  {
+    "Entity": "sung",
+    "Hex": "2669",
+    "Description": "Quarter Note",
+    "Character": "♩",
+    "Decimal": 9833
+  },
+  {
+    "Entity": "excl",
+    "Hex": "0021",
+    "Description": "EXCLAMATION MARK",
+    "Character": "!",
+    "Decimal": 33
+  },
+  {
+    "Entity": "iexcl",
+    "Hex": "00A1",
+    "Description": "INVERTED EXCLAMATION MARK",
+    "Character": "¡",
+    "Decimal": 161
+  },
+  {
+    "Entity": "quot",
+    "Hex": "0022",
+    "Description": "QUOTATION MARK",
+    "Character": "\"",
+    "Decimal": 34
+  },
+  {
+    "Entity": "apos",
+    "Hex": "0027",
+    "Description": "APOSTROPHE",
+    "Character": "'",
+    "Decimal": 39
+  },
+  {
+    "Entity": "lpar",
+    "Hex": "0028",
+    "Description": "LEFT PARENTHESIS",
+    "Character": "(",
+    "Decimal": 40
+  },
+  {
+    "Entity": "rpar",
+    "Hex": "0029",
+    "Description": "RIGHT PARENTHESIS",
+    "Character": ")",
+    "Decimal": 41
+  },
+  {
+    "Entity": "comma",
+    "Hex": "002C",
+    "Description": "COMMA",
+    "Character": ",",
+    "Decimal": 44
+  },
+  {
+    "Entity": "lowbar",
+    "Hex": "005F",
+    "Description": "LOW LINE",
+    "Character": "_",
+    "Decimal": 95
+  },
+  {
+    "Entity": "hyphen",
+    "Hex": "002D",
+    "Description": "HYPHEN-MINUS",
+    "Character": "-",
+    "Decimal": 45
+  },
+  {
+    "Entity": "period",
+    "Hex": "002E",
+    "Description": "FULL STOP",
+    "Character": ".",
+    "Decimal": 46
+  },
+  {
+    "Entity": "sol",
+    "Hex": "002F",
+    "Description": "SOLIDUS",
+    "Character": "/",
+    "Decimal": 47
+  },
+  {
+    "Entity": "colon",
+    "Hex": "003A",
+    "Description": "COLON",
+    "Character": ":",
+    "Decimal": 58
+  },
+  {
+    "Entity": "semi",
+    "Hex": "003B",
+    "Description": "SEMICOLON",
+    "Character": ";",
+    "Decimal": 59
+  },
+  {
+    "Entity": "quest",
+    "Hex": "003F",
+    "Description": "QUESTION MARK",
+    "Character": "?",
+    "Decimal": 63
+  },
+  {
+    "Entity": "iquest",
+    "Hex": "00BF",
+    "Description": "INVERTED QUESTION MARK",
+    "Character": "¿",
+    "Decimal": 191
+  },
+  {
+    "Entity": "laquo",
+    "Hex": "00AB",
+    "Description": "LEFT-POINTING DOUBLE ANGLE QUOTATION MARK",
+    "Character": "«",
+    "Decimal": 171
+  },
+  {
+    "Entity": "raquo",
+    "Hex": "00BB",
+    "Description": "RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK",
+    "Character": "»",
+    "Decimal": 187
+  },
+  {
+    "Entity": "lsquo",
+    "Hex": "2018",
+    "Description": "Left Single Quotation Mark",
+    "Character": "‘",
+    "Decimal": 8216
+  },
+  {
+    "Entity": "rsquo",
+    "Hex": "2019",
+    "Description": "RIGHT SINGLE QUOTATION MARK",
+    "Character": "’",
+    "Decimal": 8217
+  },
+  {
+    "Entity": "ldquo",
+    "Hex": "201C",
+    "Description": "Left Double Quotation Mark",
+    "Character": "“",
+    "Decimal": 8220
+  },
+  {
+    "Entity": "rdquo",
+    "Hex": "201D",
+    "Description": "RIGHT DOUBLE QUOTATION MARK",
+    "Character": "”",
+    "Decimal": 8221
+  },
+  {
+    "Entity": "nbsp",
+    "Hex": "00A0",
+    "Description": "NO-BREAK SPACE",
+    "Character": " ",
+    "Decimal": 160
+  },
+  {
+    "Entity": "shy",
+    "Hex": "00AD",
+    "Description": "SOFT HYPHEN",
+    "Character": "­",
+    "Decimal": 173
+  },
+  {
+    "Entity": "emsp",
+    "Hex": "2003",
+    "Description": "EM SPACE",
+    "Character": " ",
+    "Decimal": 8195
+  },
+  {
+    "Entity": "ensp",
+    "Hex": "2002",
+    "Description": "EN SPACE",
+    "Character": " ",
+    "Decimal": 8194
+  },
+  {
+    "Entity": "emsp13",
+    "Hex": "2004",
+    "Description": "THREE-PER-EM SPACE",
+    "Character": " ",
+    "Decimal": 8196
+  },
+  {
+    "Entity": "emsp14",
+    "Hex": "2005",
+    "Description": "FOUR-PER-EM SPACE",
+    "Character": " ",
+    "Decimal": 8197
+  },
+  {
+    "Entity": "numsp",
+    "Hex": "2007",
+    "Description": "FIGURE SPACE",
+    "Character": " ",
+    "Decimal": 8199
+  },
+  {
+    "Entity": "puncsp",
+    "Hex": "2008",
+    "Description": "PUNCTUATION SPACE",
+    "Character": " ",
+    "Decimal": 8200
+  },
+  {
+    "Entity": "thinsp",
+    "Hex": "2009",
+    "Description": "THIN SPACE",
+    "Character": " ",
+    "Decimal": 8201
+  },
+  {
+    "Entity": "hairsp",
+    "Hex": "200A",
+    "Description": "HAIR SPACE",
+    "Character": " ",
+    "Decimal": 8202
+  },
+  {
+    "Entity": "mdash",
+    "Hex": "2014",
+    "Description": "EM DASH",
+    "Character": "—",
+    "Decimal": 8212
+  },
+  {
+    "Entity": "ndash",
+    "Hex": "2013",
+    "Description": "EN DASH",
+    "Character": "–",
+    "Decimal": 8211
+  },
+  {
+    "Entity": "dash",
+    "Hex": "2010",
+    "Description": "HYPHEN",
+    "Character": "‐",
+    "Decimal": 8208
+  },
+  {
+    "Entity": "blank",
+    "Hex": "2423",
+    "Description": "OPEN BOX",
+    "Character": "␣",
+    "Decimal": 9251
+  },
+  {
+    "Entity": "hellip",
+    "Hex": "2026",
+    "Description": "HORIZONTAL ELLIPSIS",
+    "Character": "…",
+    "Decimal": 8230
+  },
+  {
+    "Entity": "nldr",
+    "Hex": "2025",
+    "Description": "TWO DOT LEADER",
+    "Character": "‥",
+    "Decimal": 8229
+  },
+  {
+    "Entity": "frac13",
+    "Hex": "2153",
+    "Description": "VULGAR FRACTION ONE THIRD",
+    "Character": "⅓",
+    "Decimal": 8531
+  },
+  {
+    "Entity": "frac23",
+    "Hex": "2154",
+    "Description": "VULGAR FRACTION TWO THIRDS",
+    "Character": "⅔",
+    "Decimal": 8532
+  },
+  {
+    "Entity": "frac15",
+    "Hex": "2155",
+    "Description": "VULGAR FRACTION ONE FIFTH",
+    "Character": "⅕",
+    "Decimal": 8533
+  },
+  {
+    "Entity": "frac25",
+    "Hex": "2156",
+    "Description": "VULGAR FRACTION TWO FIFTHS",
+    "Character": "⅖",
+    "Decimal": 8534
+  },
+  {
+    "Entity": "frac35",
+    "Hex": "2157",
+    "Description": "VULGAR FRACTION THREE FIFTHS",
+    "Character": "⅗",
+    "Decimal": 8535
+  },
+  {
+    "Entity": "frac45",
+    "Hex": "2158",
+    "Description": "VULGAR FRACTION FOUR FIFTHS",
+    "Character": "⅘",
+    "Decimal": 8536
+  },
+  {
+    "Entity": "frac16",
+    "Hex": "2159",
+    "Description": "VULGAR FRACTION ONE SIXTH",
+    "Character": "⅙",
+    "Decimal": 8537
+  },
+  {
+    "Entity": "frac56",
+    "Hex": "215A",
+    "Description": "VULGAR FRACTION FIVE SIXTHS",
+    "Character": "⅚",
+    "Decimal": 8538
+  },
+  {
+    "Entity": "incare",
+    "Hex": "2105",
+    "Description": "CARE OF",
+    "Character": "℅",
+    "Decimal": 8453
+  },
+  {
+    "Entity": "block",
+    "Hex": "2588",
+    "Description": "FULL BLOCK",
+    "Character": "█",
+    "Decimal": 9608
+  },
+  {
+    "Entity": "uhblk",
+    "Hex": "2580",
+    "Description": "UPPER HALF BLOCK",
+    "Character": "▀",
+    "Decimal": 9600
+  },
+  {
+    "Entity": "lhblk",
+    "Hex": "2584",
+    "Description": "LOWER HALF BLOCK",
+    "Character": "▄",
+    "Decimal": 9604
+  },
+  {
+    "Entity": "blk14",
+    "Hex": "2591",
+    "Description": "LIGHT SHADE",
+    "Character": "░",
+    "Decimal": 9617
+  },
+  {
+    "Entity": "blk12",
+    "Hex": "2592",
+    "Description": "MEDIUM SHADE",
+    "Character": "▒",
+    "Decimal": 9618
+  },
+  {
+    "Entity": "blk34",
+    "Hex": "2593",
+    "Description": "DARK SHADE",
+    "Character": "▓",
+    "Decimal": 9619
+  },
+  {
+    "Entity": "marker",
+    "Hex": "25AE",
+    "Description": "BLACK VERTICAL RECTANGLE",
+    "Character": "▮",
+    "Decimal": 9646
+  },
+  {
+    "Entity": "squ",
+    "Hex": "25A1",
+    "Description": "WHITE SQUARE",
+    "Character": "□",
+    "Decimal": 9633
+  },
+  {
+    "Entity": "rect",
+    "Hex": "25AD",
+    "Description": "WHITE RECTANGLE",
+    "Character": "▭",
+    "Decimal": 9645
+  },
+  {
+    "Entity": "utri",
+    "Hex": "25B5",
+    "Description": "WHITE UP-POINTING TRIANGLE",
+    "Character": "▵",
+    "Decimal": 9653
+  },
+  {
+    "Entity": "dtri",
+    "Hex": "25BF",
+    "Description": "WHITE DOWN-POINTING TRIANGLE",
+    "Character": "▿",
+    "Decimal": 9663
+  },
+  {
+    "Entity": "bull",
+    "Hex": "2022",
+    "Description": "BULLET",
+    "Character": "•",
+    "Decimal": 8226
+  },
+  {
+    "Entity": "squf",
+    "Hex": "25AA",
+    "Description": "Black Small Square",
+    "Character": "▪",
+    "Decimal": 9642
+  },
+  {
+    "Entity": "utrif",
+    "Hex": "25B4",
+    "Description": "BLACK UP-POINTING TRIANGLE",
+    "Character": "▴",
+    "Decimal": 9652
+  },
+  {
+    "Entity": "dtrif",
+    "Hex": "25BE",
+    "Description": "BLACK DOWN-POINTING TRIANGLE",
+    "Character": "▾",
+    "Decimal": 9662
+  },
+  {
+    "Entity": "ltrif",
+    "Hex": "25C2",
+    "Description": "BLACK LEFT-POINTING TRIANGLE",
+    "Character": "◂",
+    "Decimal": 9666
+  },
+  {
+    "Entity": "rtrif",
+    "Hex": "25B8",
+    "Description": "BLACK RIGHT-POINTING TRIANGLE",
+    "Character": "▸",
+    "Decimal": 9656
+  },
+  {
+    "Entity": "clubs",
+    "Hex": "2663",
+    "Description": "BLACK CLUB SUIT",
+    "Character": "♣",
+    "Decimal": 9827
+  },
+  {
+    "Entity": "diams",
+    "Hex": "2666",
+    "Description": "BLACK DIAMOND SUIT",
+    "Character": "♦",
+    "Decimal": 9830
+  },
+  {
+    "Entity": "hearts",
+    "Hex": "2665",
+    "Description": "BLACK HEART SUIT",
+    "Character": "♥",
+    "Decimal": 9829
+  },
+  {
+    "Entity": "spades",
+    "Hex": "2660",
+    "Description": "BLACK SPADE SUIT",
+    "Character": "♠",
+    "Decimal": 9824
+  },
+  {
+    "Entity": "malt",
+    "Hex": "2720",
+    "Description": "MALTESE CROSS",
+    "Character": "✠",
+    "Decimal": 10016
+  },
+  {
+    "Entity": "dagger",
+    "Hex": "2020",
+    "Description": "DAGGER",
+    "Character": "†",
+    "Decimal": 8224
+  },
+  {
+    "Entity": "Dagger",
+    "Hex": "2021",
+    "Description": "DOUBLE DAGGER",
+    "Character": "‡",
+    "Decimal": 8225
+  },
+  {
+    "Entity": "check",
+    "Hex": "2713",
+    "Description": "CHECK MARK",
+    "Character": "✓",
+    "Decimal": 10003
+  },
+  {
+    "Entity": "cross",
+    "Hex": "2717",
+    "Description": "BALLOT X",
+    "Character": "✗",
+    "Decimal": 10007
+  },
+  {
+    "Entity": "sharp",
+    "Hex": "266F",
+    "Description": "MUSIC SHARP SIGN",
+    "Character": "♯",
+    "Decimal": 9839
+  },
+  {
+    "Entity": "flat",
+    "Hex": "266D",
+    "Description": "MUSIC FLAT SIGN",
+    "Character": "♭",
+    "Decimal": 9837
+  },
+  {
+    "Entity": "male",
+    "Hex": "2642",
+    "Description": "MALE SIGN",
+    "Character": "♂",
+    "Decimal": 9794
+  },
+  {
+    "Entity": "female",
+    "Hex": "2640",
+    "Description": "Female Sign",
+    "Character": "♀",
+    "Decimal": 9792
+  },
+  {
+    "Entity": "phone",
+    "Hex": "260E",
+    "Description": "TELEPHONE SIGN",
+    "Character": "☎",
+    "Decimal": 9742
+  },
+  {
+    "Entity": "telrec",
+    "Hex": "2315",
+    "Description": "TELEPHONE RECORDER",
+    "Character": "⌕",
+    "Decimal": 8981
+  },
+  {
+    "Entity": "copysr",
+    "Hex": "2117",
+    "Description": "SOUND RECORDING COPYRIGHT",
+    "Character": "℗",
+    "Decimal": 8471
+  },
+  {
+    "Entity": "caret",
+    "Hex": "2041",
+    "Description": "CARET",
+    "Character": "⁁",
+    "Decimal": 8257
+  },
+  {
+    "Entity": "lsquor",
+    "Hex": "201A",
+    "Description": "SINGLE LOW-9 QUOTATION MARK",
+    "Character": "‚",
+    "Decimal": 8218
+  },
+  {
+    "Entity": "ldquor",
+    "Hex": "201E",
+    "Description": "DOUBLE LOW-9 QUOTATION MARK",
+    "Character": "„",
+    "Decimal": 8222
+  },
+  {
+    "Entity": "fflig",
+    "Hex": "FB00",
+    "Description": "Latin Small Ligature Ff",
+    "Character": "ﬀ",
+    "Decimal": 64256
+  },
+  {
+    "Entity": "filig",
+    "Hex": "FB01",
+    "Description": "Latin Small Ligature Fi",
+    "Character": "ﬁ",
+    "Decimal": 64257
+  },
+  {
+    "Entity": "ffilig",
+    "Hex": "FB03",
+    "Description": "Latin Small Ligature Ffi",
+    "Character": "ﬃ",
+    "Decimal": 64259
+  },
+  {
+    "Entity": "ffllig",
+    "Hex": "FB04",
+    "Description": "Latin Small Ligature Ffl",
+    "Character": "ﬄ",
+    "Decimal": 64260
+  },
+  {
+    "Entity": "fllig",
+    "Hex": "FB02",
+    "Description": "Latin Small Ligature Fl",
+    "Character": "ﬂ",
+    "Decimal": 64258
+  },
+  {
+    "Entity": "vellip",
+    "Hex": "22EE",
+    "Description": "Vertical Ellipsis",
+    "Character": "⋮",
+    "Decimal": 8942
+  },
+  {
+    "Entity": "hybull",
+    "Hex": "2043",
+    "Description": "HYPHEN BULLET",
+    "Character": "⁃",
+    "Decimal": 8259
+  },
+  {
+    "Entity": "loz",
+    "Hex": "25CA",
+    "Description": "LOZENGE",
+    "Character": "◊",
+    "Decimal": 9674
+  },
+  {
+    "Entity": "lozf",
+    "Hex": "2726",
+    "Description": "Black Four Pointed Star",
+    "Character": "✦",
+    "Decimal": 10022
+  },
+  {
+    "Entity": "ltri",
+    "Hex": "25C3",
+    "Description": "WHITE LEFT-POINTING TRIANGLE",
+    "Character": "◃",
+    "Decimal": 9667
+  },
+  {
+    "Entity": "rtri",
+    "Hex": "25B9",
+    "Description": "WHITE RIGHT-POINTING TRIANGLE",
+    "Character": "▹",
+    "Decimal": 9657
+  },
+  {
+    "Entity": "starf",
+    "Hex": "2605",
+    "Description": "BLACK STAR",
+    "Character": "★",
+    "Decimal": 9733
+  },
+  {
+    "Entity": "natur",
+    "Hex": "266E",
+    "Description": "MUSIC NATURAL SIGN",
+    "Character": "♮",
+    "Decimal": 9838
+  },
+  {
+    "Entity": "rx",
+    "Hex": "211E",
+    "Description": "PRESCRIPTION TAKE",
+    "Character": "℞",
+    "Decimal": 8478
+  },
+  {
+    "Entity": "sext",
+    "Hex": "2736",
+    "Description": "SIX POINTED BLACK STAR",
+    "Character": "✶",
+    "Decimal": 10038
+  },
+  {
+    "Entity": "target",
+    "Hex": "2316",
+    "Description": "POSITION INDICATOR",
+    "Character": "⌖",
+    "Decimal": 8982
+  },
+  {
+    "Entity": "dlcrop",
+    "Hex": "230D",
+    "Description": "BOTTOM LEFT CROP",
+    "Character": "⌍",
+    "Decimal": 8973
+  },
+  {
+    "Entity": "drcrop",
+    "Hex": "230C",
+    "Description": "BOTTOM RIGHT CROP",
+    "Character": "⌌",
+    "Decimal": 8972
+  },
+  {
+    "Entity": "ulcrop",
+    "Hex": "230F",
+    "Description": "TOP LEFT CROP",
+    "Character": "⌏",
+    "Decimal": 8975
+  },
+  {
+    "Entity": "urcrop",
+    "Hex": "230E",
+    "Description": "TOP RIGHT CROP",
+    "Character": "⌎",
+    "Decimal": 8974
+  },
+  {
+    "Entity": "aleph",
+    "Hex": "2135",
+    "Description": "ALEF SYMBOL",
+    "Character": "ℵ",
+    "Decimal": 8501
+  },
+  {
+    "Entity": "and",
+    "Hex": "2227",
+    "Description": "Logical And",
+    "Character": "∧",
+    "Decimal": 8743
+  },
+  {
+    "Entity": "ang90",
+    "Hex": "221F",
+    "Description": "RIGHT ANGLE",
+    "Character": "∟",
+    "Decimal": 8735
+  },
+  {
+    "Entity": "angsph",
+    "Hex": "2222",
+    "Description": "Spherical Angle",
+    "Character": "∢",
+    "Decimal": 8738
+  },
+  {
+    "Entity": "becaus",
+    "Hex": "2235",
+    "Description": "BECAUSE",
+    "Character": "∵",
+    "Decimal": 8757
+  },
+  {
+    "Entity": "bottom",
+    "Hex": "22A5",
+    "Description": "Up Tack",
+    "Character": "⊥",
+    "Decimal": 8869
+  },
+  {
+    "Entity": "cap",
+    "Hex": "2229",
+    "Description": "Intersection",
+    "Character": "∩",
+    "Decimal": 8745
+  },
+  {
+    "Entity": "cong",
+    "Hex": "2245",
+    "Description": "Approximately Equal To",
+    "Character": "≅",
+    "Decimal": 8773
+  },
+  {
+    "Entity": "conint",
+    "Hex": "222E",
+    "Description": "Contour Integral",
+    "Character": "∮",
+    "Decimal": 8750
+  },
+  {
+    "Entity": "cup",
+    "Hex": "222A",
+    "Description": "Union",
+    "Character": "∪",
+    "Decimal": 8746
+  },
+  {
+    "Entity": "equiv",
+    "Hex": "2261",
+    "Description": "Identical To",
+    "Character": "≡",
+    "Decimal": 8801
+  },
+  {
+    "Entity": "exist",
+    "Hex": "2203",
+    "Description": "There Exists",
+    "Character": "∃",
+    "Decimal": 8707
+  },
+  {
+    "Entity": "forall",
+    "Hex": "2200",
+    "Description": "For All",
+    "Character": "∀",
+    "Decimal": 8704
+  },
+  {
+    "Entity": "fnof",
+    "Hex": "0192",
+    "Description": "LATIN SMALL LETTER F WITH HOOK",
+    "Character": "ƒ",
+    "Decimal": 402
+  },
+  {
+    "Entity": "infin",
+    "Hex": "221E",
+    "Description": "Infinity",
+    "Character": "∞",
+    "Decimal": 8734
+  },
+  {
+    "Entity": "int",
+    "Hex": "222B",
+    "Description": "Integral",
+    "Character": "∫",
+    "Decimal": 8747
+  },
+  {
+    "Entity": "lang",
+    "Hex": "3008",
+    "Description": "Left Angle Bracket",
+    "Character": "〈",
+    "Decimal": 12296
+  },
+  {
+    "Entity": "minus",
+    "Hex": "2212",
+    "Description": "MINUS SIGN",
+    "Character": "−",
+    "Decimal": 8722
+  },
+  {
+    "Entity": "mnplus",
+    "Hex": "2213",
+    "Description": "Minus-or-Plus Sign",
+    "Character": "∓",
+    "Decimal": 8723
+  },
+  {
+    "Entity": "nabla",
+    "Hex": "2207",
+    "Description": "NABLA",
+    "Character": "∇",
+    "Decimal": 8711
+  },
+  {
+    "Entity": "ne",
+    "Hex": "2260",
+    "Description": "Not Equal To",
+    "Character": "≠",
+    "Decimal": 8800
+  },
+  {
+    "Entity": "or",
+    "Hex": "2228",
+    "Description": "Logical Or",
+    "Character": "∨",
+    "Decimal": 8744
+  },
+  {
+    "Entity": "part",
+    "Hex": "2202",
+    "Description": "Partial Differential",
+    "Character": "∂",
+    "Decimal": 8706
+  },
+  {
+    "Entity": "permil",
+    "Hex": "2030",
+    "Description": "PER MILLE SIGN",
+    "Character": "‰",
+    "Decimal": 8240
+  },
+  {
+    "Entity": "Prime",
+    "Hex": "2033",
+    "Description": "DOUBLE PRIME",
+    "Character": "″",
+    "Decimal": 8243
+  },
+  {
+    "Entity": "radic",
+    "Hex": "221A",
+    "Description": "Square Root",
+    "Character": "√",
+    "Decimal": 8730
+  },
+  {
+    "Entity": "rang",
+    "Hex": "3009",
+    "Description": "Right Angle Bracket",
+    "Character": "〉",
+    "Decimal": 12297
+  },
+  {
+    "Entity": "sime",
+    "Hex": "2243",
+    "Description": "Asymptotically Equal To",
+    "Character": "≃",
+    "Decimal": 8771
+  },
+  {
+    "Entity": "sub",
+    "Hex": "2282",
+    "Description": "Subset Of",
+    "Character": "⊂",
+    "Decimal": 8834
+  },
+  {
+    "Entity": "sup",
+    "Hex": "2283",
+    "Description": "Superset Of",
+    "Character": "⊃",
+    "Decimal": 8835
+  },
+  {
+    "Entity": "there4",
+    "Hex": "2234",
+    "Description": "Therefore",
+    "Character": "∴",
+    "Decimal": 8756
+  },
+  {
+    "Entity": "Verbar",
+    "Hex": "2016",
+    "Description": "DOUBLE VERTICAL LINE",
+    "Character": "‖",
+    "Decimal": 8214
+  },
+  {
+    "Entity": "angst",
+    "Hex": "212B",
+    "Description": "ANGSTROM SIGN",
+    "Character": "Å",
+    "Decimal": 8491
+  },
+  {
+    "Entity": "bernou",
+    "Hex": "212C",
+    "Description": "SCRIPT CAPITAL B",
+    "Character": "ℬ",
+    "Decimal": 8492
+  },
+  {
+    "Entity": "compfn",
+    "Hex": "2218",
+    "Description": "RING OPERATOR",
+    "Character": "∘",
+    "Decimal": 8728
+  },
+  {
+    "Entity": "DotDot",
+    "Hex": "20DC",
+    "Description": "COMBINING FOUR DOTS ABOVE",
+    "Character": "⃜",
+    "Decimal": 8412
+  },
+  {
+    "Entity": "hamilt",
+    "Hex": "210B",
+    "Description": "SCRIPT CAPITAL H",
+    "Character": "ℋ",
+    "Decimal": 8459
+  },
+  {
+    "Entity": "lagran",
+    "Hex": "2112",
+    "Description": "SCRIPT CAPITAL L",
+    "Character": "ℒ",
+    "Decimal": 8466
+  },
+  {
+    "Entity": "lowast",
+    "Hex": "2217",
+    "Description": "ASTERISK OPERATOR",
+    "Character": "∗",
+    "Decimal": 8727
+  },
+  {
+    "Entity": "notin",
+    "Hex": "2209",
+    "Description": "Not An Element Of",
+    "Character": "∉",
+    "Decimal": 8713
+  },
+  {
+    "Entity": "order",
+    "Hex": "2134",
+    "Description": "SCRIPT SMALL O",
+    "Character": "ℴ",
+    "Decimal": 8500
+  },
+  {
+    "Entity": "phmmat",
+    "Hex": "2133",
+    "Description": "SCRIPT CAPITAL M",
+    "Character": "ℳ",
+    "Decimal": 8499
+  },
+  {
+    "Entity": "tdot",
+    "Hex": "20DB",
+    "Description": "COMBINING THREE DOTS ABOVE",
+    "Character": "⃛",
+    "Decimal": 8411
+  },
+  {
+    "Entity": "tprime",
+    "Hex": "2034",
+    "Description": "TRIPLE PRIME",
+    "Character": "‴",
+    "Decimal": 8244
+  },
+  {
+    "Entity": "wedgeq",
+    "Hex": "2259",
+    "Description": "ESTIMATES",
+    "Character": "≙",
+    "Decimal": 8793
+  }
+]

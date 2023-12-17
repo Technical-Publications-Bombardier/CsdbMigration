@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package
+  xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10"
+  xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10"
+  xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest"
+  xmlns:rescap="http://schemas.microsoft.com/appx/manifest/foundation/windows10/restrictedcapabilities"
+  IgnorableNamespaces="uap rescap">
+
+  <Identity Name="maui-package-name-placeholder" Publisher="CN=User Name" Version="0.0.0.0" />
+
+  <mp:PhoneIdentity PhoneProductId="232BE72F-69E4-406C-B6E9-CEAB65E8BE5F" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+
+  <Properties>
+    <DisplayName>CsdbMigration</DisplayName>
+    <PublisherDisplayName>Mavaddat Javid</PublisherDisplayName>
+    <Logo>Resources\AppIcon\CsdbMigration.png</Logo>
+  </Properties>
+
+  <Dependencies>
+    <TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.19041.0" />
+    <TargetDeviceFamily Name="Windows.Desktop" MinVersion="10.0.17763.0" MaxVersionTested="10.0.19041.0" />
+  </Dependencies>
+
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="$targetentrypoint$">
+      <uap:VisualElements
+        DisplayName="CsdbMigration"
+        Description="CsdbMigration"
+        Square150x150Logo="Resources\AppIcon\Dark.png"
+        Square44x44Logo="Resources\AppIcon\Dark.png"
+        BackgroundColor="transparent">
+        <uap:DefaultTile Square71x71Logo="Resources\AppIcon\Dark.png" Wide310x150Logo="Resources\AppIcon\Dark.png" Square310x310Logo="Resources\AppIcon\Dark.png" />
+        <uap:SplashScreen Image="Resources\AppIcon\Dark.png"  BackgroundColor="#003E51"/>
+        <uap:LockScreen BadgeLogo="Resources\AppIcon\Dark.png" Notification="badgeAndTileText"/>
+      </uap:VisualElements>
+    </Application>
+  </Applications>
+
+  <Capabilities>
+    <rescap:Capability Name="runFullTrust" />
+  </Capabilities>
+
+</Package>
