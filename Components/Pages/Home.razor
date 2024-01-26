@@ -1,9 +1,28 @@
 ﻿@page "/"
-
+@using CsdbMigration.Resources
+@using Microsoft.Extensions.Localization
+@inject IStringLocalizer<Home> Localizer
 <h1>CSDB Migration Tools</h1>
-
-<table>
-    <tr>
-<td>Omnimark script generator</td><td>Graphics extension identifier</td><td>XML character entity sanitizer</td>
-    </tr>
-</table>
+<div id="centered-grid">
+    <div class="utilities">
+        <div class="xmlwf item-grid">
+            <Button Type="ButtonType.Link" Color="ButtonColor.Secondary" Outline="true" To="sgml-to-xml" TooltipTitle="@Localizer[nameof(AppRes.TooltipSgmlToXml)]" TooltipPlacement="TooltipPlacement.Top" class="item-grid">
+                <img class="icon" src="img/ApplyOmnimark.svg" alt="@Localizer[nameof(AppRes.AltSgmlToXml)]"/>
+                <span class="caption">@Localizer[nameof(AppRes.SgmlToXmlWellFormed)]</span>
+            </Button>
+        </div>
+        <div class="extident item-grid">
+            <Button Type="ButtonType.Link" Color="ButtonColor.Secondary" Outline="true" To="extensions" TooltipTitle="@Localizer[nameof(AppRes.TooltipGraphicsIdent)]" TooltipPlacement="TooltipPlacement.Top" class="item-grid">
+                <img class="icon" src="img/GraphicsExtensions.svg" alt="@Localizer[nameof(AppRes.AltGraphicsIdent)]"/>
+                <span class="caption">@Localizer[nameof(AppRes.GraphicsExtensionIdentifier)]</span>
+            </Button>
+        </div>
+        <div class="charent item-grid">
+            <Button Type="ButtonType.Link" Color="ButtonColor.Secondary" Outline="true" To="entities" TooltipTitle="@Localizer[nameof(AppRes.TooltipCharEntities)]" TooltipPlacement="TooltipPlacement.Top" class="item-grid">
+                <img class="icon" src="img/CharacterEntityResolver.svg" alt="@Localizer[nameof(AppRes.AltCharEntities)]"/>
+                <span class="caption">@Localizer[nameof(AppRes.XmlCharacterEntitySanitizer)]</span>
+            </Button>
+        </div>
+    </div>
+</div>
+<Button id="gear" Type="ButtonType.Link" To="settings" TooltipTitle="Application Settings"><span class="bi bi-gear-fill fs-3" aria-hidden="true"></span></Button>

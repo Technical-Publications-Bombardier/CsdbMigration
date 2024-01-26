@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AltCharEntities" xml:space="preserve">
+    <value>Illustration d'un curseur avant-après révélant les entités de caractères pour les caractères Unicode spéciaux</value>
+  </data>
+  <data name="AltGraphicsIdent" xml:space="preserve">
+    <value>Illustration d'une loupe identifiant les extensions de fichiers graphiques jusqu'alors inconnus</value>
+  </data>
+  <data name="AltSgmlToXml" xml:space="preserve">
+    <value>Illustration de la conversion SGML vers XML</value>
+  </data>
+  <data name="English" xml:space="preserve">
+    <value>Anglais</value>
+  </data>
+  <data name="French" xml:space="preserve">
+    <value>Français</value>
+  </data>
+  <data name="GraphicsExtensionIdentifier" xml:space="preserve">
+    <value>Identifiant de l'extension graphique</value>
+  </data>
+  <data name="HashiCorpClientSecret" xml:space="preserve">
+    <value>Secret client HashiCorp</value>
+  </data>
+  <data name="Language" xml:space="preserve">
+    <value>Langue</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>Sauvegarder</value>
+  </data>
+  <data name="SgmlToXmlWellFormed" xml:space="preserve">
+    <value>SGML vers XML bien formé</value>
+  </data>
+  <data name="TooltipCharEntities" xml:space="preserve">
+    <value>Rechercher des caractères spéciaux dans XML et les convertir en entités de caractères correspondantes</value>
+  </data>
+  <data name="TooltipGraphicsIdent" xml:space="preserve">
+    <value>Identifiez les extensions de fichiers de fichiers graphiques non identifiés</value>
+  </data>
+  <data name="TooltipSgmlToXml" xml:space="preserve">
+    <value>Convertissez des fichiers SGML en XML bien formé à l'aide du script Omnimark</value>
+  </data>
+  <data name="XmlCharacterEntitySanitizer" xml:space="preserve">
+    <value>Désinfecteur d'entités de caractères XML</value>
+  </data>
+</root>

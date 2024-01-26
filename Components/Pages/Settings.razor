@@ -1,0 +1,46 @@
+﻿@page "/settings"
+@using CsdbMigration.Resources
+@using Microsoft.Extensions.Localization
+@inject SettingsViewModel ViewModel
+@inject IStringLocalizer<Settings> Localizer
+<h3>Settings</h3>
+<Tabs>
+    <Tab Title="Application" IsActive="true">
+        <Content>
+            <form>
+                <div class="mb-3">
+                    <Dropdown id="languages">
+                        <DropdownToggleButton Color="ButtonColor.Secondary">@Localizer[nameof(AppRes.Language)]</DropdownToggleButton>
+                        <DropdownMenu>
+                            <DropdownItem value="en" class="d-flex justify-content-evenly" @onclick="@(() => ViewModel.SelectedLanguage = "en")">
+                                <span>@Localizer[nameof(AppRes.English)]</span><span>🇬🇧</span>
+                            </DropdownItem>
+                            <DropdownItem value="fr" class="d-flex justify-content-evenly" @onclick="@(() => ViewModel.SelectedLanguage = "fr")">
+                                <span>French</span><span>🇫🇷</span>
+                            </DropdownItem>
+                        </DropdownMenu>
+                    </Dropdown>
+                </div>
+                <Button Color="ButtonColor.Primary" @onclick="@(args => { ViewModel.OnSubmitLanguage(args); StateHasChanged(); })" Type="ButtonType.Submit">@Localizer[nameof(AppRes.Save)]</Button>
+            </form>
+
+        </Content>
+    </Tab>
+    <Tab Title="Secrets">
+        <Content>
+            <form>
+                <div class="mb-3">
+                    <label for="hashicorp-client-secret" class="form-label">@Localizer[nameof(AppRes.HashiCorpClientSecret)]</label>
+                    <input type="password" class="form-control" id="hashicorp-client-secret" value="@SettingsViewModel.HashiCorpClientSecret"/>
+                </div>
+                <Button Type="ButtonType.Submit" Color="ButtonColor.Primary">@Localizer[nameof(AppRes.Save)]</Button>
+            </form>
+
+        </Content>
+    </Tab>
+</Tabs>
+<span id="emoji">&nbsp;</span> <!-- To preload the emojis font -->
+
+@code {
+
+}

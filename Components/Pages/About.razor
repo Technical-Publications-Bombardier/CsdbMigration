@@ -1,0 +1,15 @@
+﻿@page "/about"
+@using System.Reflection
+<div id="about" class="d-flex flex-row flex-wrap">
+    <span class="order-1 p-2">
+        <h3>Bombardier CSDB Migration Tools</h3>
+        <p>@(Assembly.GetExecutingAssembly().GetCustomAttribute<AssemblyDescriptionAttribute>()?.Description)</p>
+        <p>App Version: <code>@(Assembly.GetExecutingAssembly().GetCustomAttribute<AssemblyInformationalVersionAttribute>()?.InformationalVersion)</code></p>
+        <p>@(Assembly.GetExecutingAssembly().GetCustomAttribute<AssemblyCopyrightAttribute>()?.Copyright)</p>
+        <p>Product: @(Assembly.GetExecutingAssembly().GetCustomAttribute<AssemblyProductAttribute>()?.Product)</p>
+        <p>Authors: Mavaddat Javid</p>
+    </span>
+    <span class="order-2 p-2 float-end">
+        <img width="100%" class="img-fluid" src="img/splash.svg" alt="A splash screen for the CSDB utility"/>
+    </span>
+</div>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Character_Entity_Resolver" data-name="Character Entity Resolver" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 300 300">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2, .cls-4 {
+        stroke: #0083ca;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-5 {
+        fill: #0083ca;
+      }
+
+      .cls-5, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-7, .cls-8, .cls-9 {
+        font-family: DidotLH-Bold, 'Linotype Didot';
+        font-weight: 700;
+      }
+
+      .cls-7, .cls-9 {
+        font-size: 145.25px;
+      }
+
+      .cls-8 {
+        font-size: 23.39px;
+      }
+
+      .cls-10 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-11 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-9, .cls-4 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-3" width="132.33" height="300"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-3" x="124.55" width="175.45" height="300.56"/>
+    </clipPath>
+  </defs>
+  <g id="masked_raw_unicode_characters" data-name="masked raw unicode characters">
+    <g class="cls-10">
+      <g id="Raw_Unicode_Characters" data-name="Raw Unicode Characters">
+        <text class="cls-9" transform="translate(13.32 190.74)"><tspan x="0" y="0">“…</tspan><tspan class="cls-1" x="212.5" y="0">”</tspan></text>
+        <text class="cls-7" transform="translate(13.32 190.74)"><tspan x="0" y="0">“…</tspan><tspan class="cls-1" x="212.5" y="0">”</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g id="masked_character_entities" data-name="masked character entities">
+    <g class="cls-6">
+      <g id="Character_Entities" data-name="Character Entities">
+        <text id="_ldquo_hellip_rdquo_" data-name="&amp;amp;ldquo;&amp;amp;hellip;&amp;amp;rdquo;" class="cls-8" transform="translate(17.45 156.56)"><tspan x="0" y="0">&amp;ldquo;&amp;hellip;&amp;rdquo</tspan><tspan class="cls-11" x="259.04" y="0">;</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g id="Slider">
+    <line id="Vertical_Line" data-name="Vertical Line" class="cls-2" x1="120" x2="120" y2="300"/>
+    <circle id="Circle" class="cls-4" cx="120" cy="150" r="25.45"/>
+    <g id="Arrows">
+      <path class="cls-5" d="M139.54,150.49l-10.06,5.81c-.37.22-.84-.05-.84-.49v-11.62c0-.43.47-.7.84-.49l10.06,5.81c.37.22.37.76,0,.97Z"/>
+      <path class="cls-5" d="M100.46,150.49l10.06,5.81c.37.22.84-.05.84-.49v-11.62c0-.43-.47-.7-.84-.49l-10.06,5.81c-.37.22-.37.76,0,.97Z"/>
+    </g>
+  </g>
+</svg>

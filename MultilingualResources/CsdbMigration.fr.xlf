@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en" target-language="fr" original="CSDBMIGRATION/RESOURCES/APPRES.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="1.0.0.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="CSDBMIGRATION/RESOURCES/APPRES.RESX" datatype="resx">
+        <trans-unit id="AltCharEntities" translate="yes" xml:space="preserve">
+          <source>Illustration of a before-after slider revealing the character entities for special Unicode characters</source>
+          <target state="translated">Illustration d'un curseur avant-après révélant les entités de caractères pour les caractères Unicode spéciaux</target>
+        </trans-unit>
+        <trans-unit id="AltGraphicsIdent" translate="yes" xml:space="preserve">
+          <source>Illustration of a magnifying glass identifying the extensions of formerly unknown graphics files</source>
+          <target state="translated">Illustration d'une loupe identifiant les extensions de fichiers graphiques jusqu'alors inconnus</target>
+        </trans-unit>
+        <trans-unit id="AltSgmlToXml" translate="yes" xml:space="preserve">
+          <source>Illustration of SGML to XML conversion</source>
+          <target state="translated">Illustration de la conversion SGML vers XML</target>
+        </trans-unit>
+        <trans-unit id="English" translate="yes" xml:space="preserve">
+          <source>English</source>
+          <target state="translated">Anglais</target>
+        </trans-unit>
+        <trans-unit id="French" translate="yes" xml:space="preserve">
+          <source>French</source>
+          <target state="translated">Français</target>
+        </trans-unit>
+        <trans-unit id="GraphicsExtensionIdentifier" translate="yes" xml:space="preserve">
+          <source>Graphics extension identifier</source>
+          <target state="translated">Identifiant de l'extension graphique</target>
+        </trans-unit>
+        <trans-unit id="HashiCorpClientSecret" translate="yes" xml:space="preserve">
+          <source>HashiCorp Client Secret</source>
+          <target state="translated">Secret client HashiCorp</target>
+        </trans-unit>
+        <trans-unit id="Language" translate="yes" xml:space="preserve">
+          <source>Language</source>
+          <target state="translated">Langue</target>
+        </trans-unit>
+        <trans-unit id="Save" translate="yes" xml:space="preserve">
+          <source>Save</source>
+          <target state="translated">Sauvegarder</target>
+        </trans-unit>
+        <trans-unit id="SgmlToXmlWellFormed" translate="yes" xml:space="preserve">
+          <source>SGML to XML well-formed</source>
+          <target state="translated">SGML vers XML bien formé</target>
+        </trans-unit>
+        <trans-unit id="TooltipCharEntities" translate="yes" xml:space="preserve">
+          <source>Search XML for special characters and convert them into corresponding character entities</source>
+          <target state="translated">Rechercher des caractères spéciaux dans XML et les convertir en entités de caractères correspondantes</target>
+        </trans-unit>
+        <trans-unit id="TooltipGraphicsIdent" translate="yes" xml:space="preserve">
+          <source>Identify the file-extensions of unidentified graphics files</source>
+          <target state="translated">Identifiez les extensions de fichiers de fichiers graphiques non identifiés</target>
+        </trans-unit>
+        <trans-unit id="TooltipSgmlToXml" translate="yes" xml:space="preserve">
+          <source>Convert SGML files to well-formed XML using the Omnimark script</source>
+          <target state="translated">Convertissez des fichiers SGML en XML bien formé à l'aide du script Omnimark</target>
+        </trans-unit>
+        <trans-unit id="XmlCharacterEntitySanitizer" translate="yes" xml:space="preserve">
+          <source>XML character entity sanitizer</source>
+          <target state="translated">Désinfecteur d'entités de caractères XML</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

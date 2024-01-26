@@ -1,0 +1,73 @@
+﻿using System.Collections.Concurrent;
+using CommunityToolkit.Maui;
+using CommunityToolkit.Maui.Storage;
+using CsdbMigration.Shared;
+using Microsoft.Extensions.Logging;
+// ReSharper disable once RedundantUsingDirective
+using Microsoft.ApplicationInsights;
+using Microsoft.Extensions.Logging.ApplicationInsights;
+using System.Reflection;
+using CommunityToolkit.Maui;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Logging;
+using System.Diagnostics;
+using BlazorBootstrap;
+
+namespace CsdbMigration;
+
+public static class MauiProgram
+{
+    public static MauiApp CreateMauiApp()
+    {
+        var builder = MauiApp.CreateBuilder();
+        
+        var config = new ConfigurationBuilder()
+            .AddJsonStream(Assembly.GetExecutingAssembly().GetManifestResourceStream("CsdbMigration.appsettings.json")!)
+            .Build();
+
+        builder
+            .UseMauiApp<App>()
+            .ConfigureFonts(fonts =>
+            {
+                fonts.AddFont(@"Resources\Fonts\AvenirNextLTPro-Bold.otf", "AvenirNextLTPro-Bold");
+                fonts.AddFont(@"Resources\Fonts\AvenirNextLTPro-BoldCn.otf", "AvenirNextLTPro-BoldCn");
+                fonts.AddFont(@"Resources\Fonts\AvenirNextLTPro-BoldCnIt.otf", "AvenirNextLTPro-BoldCnIt");
+                fonts.AddFont(@"Resources\Fonts\AvenirNextLTPro-BoldIt.otf", "AvenirNextLTPro-BoldIt");
+                fonts.AddFont(@"Resources\Fonts\AvenirNextLTPro-Cn.otf", "AvenirNextLTPro-Cn");
+                fonts.AddFont(@"Resources\Fonts\AvenirNextLTPro-CnIt.otf", "AvenirNextLTPro-CnIt");
+                fonts.AddFont(@"Resources\Fonts\AvenirNextLTPro-Demi.otf", "AvenirNextLTPro-Demi");
+                fonts.AddFont(@"Resources\Fonts\AvenirNextLTPro-DemiCn.otf", "AvenirNextLTPro-DemiCn");
+                fonts.AddFont(@"Resources\Fonts\AvenirNextLTPro-DemiCnIt.otf", "AvenirNextLTPro-DemiCnIt");
+                fonts.AddFont(@"Resources\Fonts\AvenirNextLTPro-DemiIt.otf", "AvenirNextLTPro-DemiIt");
+                fonts.AddFont(@"Resources\Fonts\AvenirNextLTPro-Heavy.otf", "AvenirNextLTPro-Heavy");
+                fonts.AddFont(@"Resources\Fonts\AvenirNextLTPro-HeavyCn.otf", "AvenirNextLTPro-HeavyCn");
+                fonts.AddFont(@"Resources\Fonts\AvenirNextLTPro-HeavyCnIt.otf", "AvenirNextLTPro-HeavyCnIt");
+                fonts.AddFont(@"Resources\Fonts\AvenirNextLTPro-HeavyIt.otf", "AvenirNextLTPro-HeavyIt");
+                fonts.AddFont(@"Resources\Fonts\AvenirNextLTPro-It.otf", "AvenirNextLTPro-It");
+                fonts.AddFont(@"Resources\Fonts\AvenirNextLTPro-Medium.otf", "AvenirNextLTPro-Medium");
+                fonts.AddFont(@"Resources\Fonts\AvenirNextLTPro-MediumCn.otf", "AvenirNextLTPro-MediumCn");
+                fonts.AddFont(@"Resources\Fonts\AvenirNextLTPro-MediumCnIt.otf", "AvenirNextLTPro-MediumCnIt");
+                fonts.AddFont(@"Resources\Fonts\AvenirNextLTPro-MediumIt.otf", "AvenirNextLTPro-MediumIt");
+                fonts.AddFont(@"Resources\Fonts\AvenirNextLTPro-Regular.otf", "AvenirNextLTPro-Regular");
+                fonts.AddFont(@"Resources\Fonts\AvenirNextLTPro-UltLt.otf", "AvenirNextLTPro-UltLt");
+                fonts.AddFont(@"Resources\Fonts\AvenirNextLTPro-UltLtCn.otf", "AvenirNextLTPro-UltLtCn");
+                fonts.AddFont(@"Resources\Fonts\AvenirNextLTPro-UltLtCnIt.otf", "AvenirNextLTPro-UltLtCnIt");
+                fonts.AddFont(@"Resources\Fonts\AvenirNextLTPro-UltLtIt.otf", "AvenirNextLTPro-UltLtIt");
+                fonts.AddFont(@"Resources\Fonts\linotype-didot-bold.otf", "linotype-didot-bold");
+                fonts.AddFont(@"Resources\Fonts\linotype-didot-headline.otf", "linotype-didot-headline");
+                fonts.AddFont(@"Resources\Fonts\linotype-didot-initials.otf", "linotype-didot-initials");
+                fonts.AddFont(@"Resources\Fonts\linotype-didot-italic.otf", "linotype-didot-italic");
+                fonts.AddFont(@"Resources\Fonts\linotype-didot-roman.ttf", "linotype-didot-roman");
+            }).UseMauiCommunityToolkit();
+
+        builder.Services.AddMauiBlazorWebView();
+        builder.Services.AddBlazorBootstrap();
+
+#if DEBUG
+        builder.Services.AddBlazorWebViewDeveloperTools();
+        builder.Logging.AddDebug();
+#endif
+
+        return builder.Build();
+    }
+}

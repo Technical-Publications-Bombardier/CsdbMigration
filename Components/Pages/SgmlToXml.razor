@@ -1,0 +1,41 @@
+﻿@page "/sgml-to-xml"
+@inject SgmlToXmlViewModel ViewModel
+<h3>SGML to XML</h3>
+<div class="file-select">
+    <Switch @bind-Value="ViewModel.ByFolder" Label="Choose SGML's by Folder"/>
+    @if (ViewModel.ByFolder)
+    {
+            <Button TooltipTitle="The program will recursively search for SGML files in the selected folder" Color="ButtonColor.Secondary" @onclick="ViewModel.SelectFolder" TooltipPlacement="TooltipPlacement.Right"> Select Folder </Button>
+        ViewModel.EmptyText = "No folder(s) chosen";
+    }
+    else
+    {
+        <Button Color="ButtonColor.Secondary" @onclick="ViewModel.SelectSgmlFiles"> Select SGML Files </Button>
+        ViewModel.EmptyText = "No SGML file(s) chosen";
+    }
+</div>
+
+<Grid AllowFiltering="true" AllowPaging="true" AllowSelection="true" AllowSorting="true" class="table table-hover table-bordered table-striped" Data="ViewModel.SgmlFiles" EmptyText="@ViewModel.EmptyText" ItemsPerPageText="Sgml files per page" PageSize="5" PageSizeSelectorItems="[10, 20, 50]" PaginationItemsTextFormat="{0} - {1} of {2} files" @ref="ViewModel.SgmlFilesGrid" Responsive="true" SelectedItemsChanged="ViewModel.OnSelectedSgmlFilesChanged" SelectionMode="GridSelectionMode.Multiple" TItem="FileInfo">
+    <GridColumn HeaderText="Filename" PropertyName="Name" StringComparison="StringComparison.OrdinalIgnoreCase" TItem="FileInfo">
+        @context.Name
+    </GridColumn>
+    <GridColumn HeaderText="Path" TItem="FileInfo">
+        <span class="base-path">@Path.GetDirectoryName(Path.GetDirectoryName(context.FullName))</span><span class="leaf-path">@Path.DirectorySeparatorChar@Path.GetFileName(Path.GetDirectoryName(context.FullName))</span>
+    </GridColumn>
+    <GridColumn HeaderText="Last modified" SortKeySelector="item => item.LastWriteTime" TItem="FileInfo">
+        @context.LastWriteTime
+    </GridColumn>
+    <GridColumn HeaderText="Size" SortKeySelector="item => item.Length" TItem="FileInfo">
+        @context.Length
+    </GridColumn>
+</Grid>
+@if (ViewModel.ConvertIsEnabled)
+{
+    <Button TooltipTitle="@ViewModel.ConvertTooltip" Color="ButtonColor.Primary" @onclick="ViewModel.Convert" TooltipPlacement="TooltipPlacement.Bottom"> Convert </Button>
+}
+else
+{
+    <Tooltip Color="TooltipColor.Warning" Title="Please select SGML file(s)" Placement="TooltipPlacement.Right">
+        <Button Disabled="true" Color="ButtonColor.Primary" @onclick="ViewModel.Convert"> Convert </Button>
+    </Tooltip>
+}
