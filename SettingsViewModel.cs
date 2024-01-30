@@ -7,11 +7,7 @@ using BlazorBootstrap;
 using CommunityToolkit.Maui.Storage;
 using CommunityToolkit.Mvvm.ComponentModel;
 using CsdbMigration.Components.Pages;
-using CsdbMigration.Services;
 using CsdbMigration.Shared;
-using Microsoft.AspNetCore.Components;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Localization;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 using Microsoft.Maui.Platform;
@@ -21,8 +17,7 @@ public partial class SettingsViewModel(
     ConcurrentDictionary<DateTime, LogRecord> logs,
     ILogger<ICsdbMigrationViewModel> logger,
     ModalService modalService,
-    IConfiguration configuration,
-    CookieService cookieService
+    IConfiguration configuration
 )
     : ObservableObject, ICsdbMigrationViewModel
 {
@@ -41,10 +36,6 @@ public partial class SettingsViewModel(
         Debug.Print($"Thread Current UI Culture: {Thread.CurrentThread.CurrentUICulture}");
         var newCulture = CultureInfo.CreateSpecificCulture(SelectedLanguage);
         CultureInfo.CurrentUICulture = CultureInfo.CurrentCulture = CultureInfo.DefaultThreadCurrentUICulture = Thread.CurrentThread.CurrentUICulture = newCulture;
-        // Store the selected culture in a cookie
-        var cookieValue = CookieRequestCultureProvider.MakeCookieValue(new RequestCulture(newCulture));
-        // cookieService.SetCookie("RequestCulture", cookieValue, 365);
-        cookieService.SetCookie(".AspNetCore.Culture", cookieValue, 365);
     }
 
 }

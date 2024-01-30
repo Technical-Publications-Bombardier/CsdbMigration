@@ -79,9 +79,9 @@
 	</Target>
 	<ItemGroup>
 		<!-- App Icon -->
-		<MauiIcon Include="Resources\AppIcon\appicon.svg" ForegroundFile="Resources\AppIcon\appiconfg.svg" Color="#512BD4" />
+		<MauiIcon Include="Resources\AppIcon\appicon.svg" ForegroundFile="Resources\AppIcon\appiconfg.svg" />
 		<!-- Splash Screen -->
-		<MauiSplashScreen Include="Resources\Splash\splash.svg"  Color="#512BD4" BaseSize="128,128" />
+		<MauiSplashScreen Include="Resources\Splash\splash.svg" />
 		<!-- Images -->
 		<MauiImage Include="Resources\Images\*" />
 		<!-- Custom Fonts -->
@@ -121,6 +121,10 @@
 			<Pack>True</Pack>
 			<PackagePath>\</PackagePath>
 		</None>
+		<None Update="Resources\Images\2x\Darkxhdpi.png">
+			<Pack>True</Pack>
+			<PackagePath>\</PackagePath>
+		</None>
 		<None Update="Resources\Splash\splash.svg">
 			<Pack>True</Pack>
 			<PackagePath>\img\</PackagePath>
@@ -138,5 +142,18 @@
 	</ItemGroup>
 	<ItemGroup>
 		<XliffResource Include="MultilingualResources\CsdbMigration.fr.xlf" />
+	</ItemGroup>
+	<ItemGroup>
+		<Compile Update="Resources\AppRes.Designer.cs">
+			<DesignTime>True</DesignTime>
+			<AutoGen>True</AutoGen>
+			<DependentUpon>AppRes.resx</DependentUpon>
+		</Compile>
+	</ItemGroup>
+	<ItemGroup>
+		<EmbeddedResource Update="Resources\AppRes.resx">
+			<Generator>ResXFileCodeGenerator</Generator>
+			<LastGenOutput>AppRes.Designer.cs</LastGenOutput>
+		</EmbeddedResource>
 	</ItemGroup>
 </Project>

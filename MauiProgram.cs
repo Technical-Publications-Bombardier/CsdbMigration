@@ -4,11 +4,7 @@ using BlazorBootstrap;
 using CommunityToolkit.Maui;
 using CommunityToolkit.Maui.Storage;
 using CsdbMigration.Resources;
-using CsdbMigration.Services;
 using CsdbMigration.Shared;
-using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Localization;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 // ReSharper disable once RedundantUsingDirective
@@ -41,17 +37,6 @@ public static class MauiProgram
         builder.Services.AddBlazorBootstrap();
         // Add localization services
         builder.Services.AddLocalization(options => options.ResourcesPath = "Resources");
-        builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
-        builder.Services.AddSingleton<CookieService>();
-        builder.Services.Configure<RequestLocalizationOptions>(options =>
-        {
-            options.SetDefaultCulture(SupportedLocales[0])
-                .AddSupportedCultures(SupportedLocales)
-                .AddSupportedUICultures(SupportedLocales);
-            // Use cookies for localization
-            options.RequestCultureProviders.Insert(0, new CookieRequestCultureProvider());
-        });
-
         builder.Services.AddSingleton<ConcurrentDictionary<DateTime, LogRecord>>();
         builder.Services.AddSingleton<ModalService>();
         // Register the logger as a singleton
@@ -87,8 +72,7 @@ public static class MauiProgram
             var logs = services.GetRequiredService<ConcurrentDictionary<DateTime, LogRecord>>();
             var logger = services.GetRequiredService<ILogger<ICsdbMigrationViewModel>>();
             var modalService = services.GetRequiredService<ModalService>();
-            var cookieService = services.GetRequiredService<CookieService>();
-            return new SettingsViewModel(logs, logger, modalService, config, cookieService);
+            return new SettingsViewModel(logs, logger, modalService, config);
         });
         // Register SgmlToXmlViewModel
         builder.Services.AddSingleton<ICsdbMigrationViewModel, SgmlToXmlViewModel>(services =>
